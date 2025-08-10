@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "pan": "\\b[A-Z]{5}[0-9]{4}[A-Z]{1}\\b",
+    "di_code": "\\b(?:D[0-9A-Z]{7}|DI[0-9A-Z]{6})\\b",
+    "aif_folio": "\\b[56789][0-9]{9}\\b",
+    "account_code": "\\b[0-9]{8}\\b",
+    "enhanced_pan": "(?:PAN[\\s:]*)?\\b[A-Z]{5}[0-9]{4}[A-Z]{1}\\b",
+    "enhanced_di": "(?:DI[\\s:]*)?\\b(?:D[0-9A-Z]{7}|DI[0-9A-Z]{6})\\b"
+  },
+  "dates": {
+    "as_on": [
+      "as\\s+on\\s+(.+?)(?:\\s*$|\\s+for|\\s+PAN|\\s+DI)",
+      "as\\s+at\\s+(.+?)(?:\\s*$|\\s+for|\\s+PAN|\\s+DI)",
+      "position\\s+as\\s+on\\s+(.+?)(?:\\s*$|\\s+for|\\s+PAN|\\s+DI)",
+      "balance\\s+as\\s+on\\s+(.+?)(?:\\s*$|\\s+for|\\s+PAN|\\s+DI)",
+      "status\\s+as\\s+on\\s+(.+?)(?:\\s*$|\\s+for|\\s+PAN|\\s+DI)"
+    ],
+    "from_to": [
+      "from\\s+(.+?)\\s+to\\s+(.+?)(?:\\s|$|\\.)",
+      "between\\s+(.+?)\\s+(?:and|to)\\s+(.+?)(?:\\s|$|\\.)",
+      "period\\s+from\\s+(.+?)\\s+to\\s+(.+?)(?:\\s|$|\\.)",
+      "duration\\s+from\\s+(.+?)\\s+to\\s+(.+?)(?:\\s|$|\\.)"
+    ],
+    "financial_year": [
+      "fy\\s*(\\d{2})[-\\s]*(\\d{2})",
+      "fy\\s*(\\d{4})[-\\s]*(\\d{2,4})",
+      "fy\\s*(\\d{2})(?:\\s|$)",
+      "fy\\s*(\\d{4})(?:\\s|$)",
+      "financial\\s*year\\s*(\\d{2})[-\\s]*(\\d{2})",
+      "financial\\s*year\\s*(\\d{4})[-\\s]*(\\d{2,4})"
+    ],
+    "relative_periods": [
+      "(?:last|past|previous)\\s+(\\w+)\\s+(months?|days?|weeks?|years?)",
+      "(?:last|past|previous)\\s+(\\d+)\\s+(months?|days?|weeks?|years?)"
+    ]
+  }
+}

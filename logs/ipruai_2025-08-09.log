@@ -1,0 +1,702 @@
+2025-08-09 16:35:55 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:36:13 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:36:13 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:36:13 | DEBUG    | IpruAI          | Body length: 80 chars
+2025-08-09 16:36:13 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:36:13 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 89.33% | Method: rule_based
+2025-08-09 16:36:13 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:36:13 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:36:13 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2024-03-15 (email)
+2025-08-09 16:40:58 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:40:58 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:40:58 | DEBUG    | IpruAI          | Body length: 84 chars
+2025-08-09 16:40:58 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:40:58 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 89.33% | Method: rule_based
+2025-08-09 16:40:58 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:40:58 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:40:58 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2024-12-31 (email)
+2025-08-09 16:41:22 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:41:22 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:41:22 | DEBUG    | IpruAI          | Body length: 90 chars
+2025-08-09 16:41:22 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:41:22 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:41:22 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:41:22 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:41:22 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:41:32 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:41:32 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:41:32 | DEBUG    | IpruAI          | Body length: 90 chars
+2025-08-09 16:41:32 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:41:32 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:41:32 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:41:32 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:41:32 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:41:53 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:41:53 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:41:53 | DEBUG    | IpruAI          | Body length: 92 chars
+2025-08-09 16:41:53 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:41:53 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:41:53 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:41:53 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:41:53 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:42:35 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:42:35 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:42:35 | DEBUG    | IpruAI          | Body length: 92 chars
+2025-08-09 16:42:35 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:42:35 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:42:35 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:42:35 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:42:35 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:42:43 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:42:43 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:42:43 | DEBUG    | IpruAI          | Body length: 92 chars
+2025-08-09 16:42:43 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:42:43 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:42:43 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:42:43 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:42:43 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:42:51 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:42:54 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:42:54 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:42:54 | DEBUG    | IpruAI          | Body length: 92 chars
+2025-08-09 16:42:54 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:42:54 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:42:54 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:42:54 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:42:54 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-31 (email)
+2025-08-09 16:43:05 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:43:05 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:43:05 | DEBUG    | IpruAI          | Body length: 90 chars
+2025-08-09 16:43:05 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:43:05 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:43:05 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:43:05 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:43:05 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:44:04 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:44:04 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:44:04 | DEBUG    | IpruAI          | Body length: 90 chars
+2025-08-09 16:44:04 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:44:04 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:44:04 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:44:04 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:44:04 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:44:11 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:44:14 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:44:14 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:44:14 | DEBUG    | IpruAI          | Body length: 90 chars
+2025-08-09 16:44:14 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:44:14 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:44:14 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:44:14 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:44:14 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:44:55 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:44:57 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:44:57 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:44:57 | DEBUG    | IpruAI          | Body length: 90 chars
+2025-08-09 16:44:57 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:44:57 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:44:57 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:44:57 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:44:57 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:45:35 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:45:37 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:45:37 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:45:37 | DEBUG    | IpruAI          | Body length: 90 chars
+2025-08-09 16:45:37 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:45:37 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:45:37 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:45:37 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:45:37 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-31 (email)
+2025-08-09 16:45:47 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:45:47 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:45:47 | DEBUG    | IpruAI          | Body length: 88 chars
+2025-08-09 16:45:47 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:45:47 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:45:47 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:45:47 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:45:47 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:45:51 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:45:51 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:45:51 | DEBUG    | IpruAI          | Body length: 87 chars
+2025-08-09 16:45:51 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:45:51 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:45:51 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:45:51 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:45:51 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-01 (email)
+2025-08-09 16:45:57 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:45:57 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:45:57 | DEBUG    | IpruAI          | Body length: 88 chars
+2025-08-09 16:45:57 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:45:57 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:45:57 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:45:57 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:45:57 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:46:38 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:46:40 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:46:40 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:46:40 | DEBUG    | IpruAI          | Body length: 88 chars
+2025-08-09 16:46:40 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:46:40 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:46:40 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:46:40 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:46:40 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-01 (email)
+2025-08-09 16:46:48 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:46:48 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:46:48 | DEBUG    | IpruAI          | Body length: 88 chars
+2025-08-09 16:46:48 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:46:48 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:46:48 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:46:48 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:46:48 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:46:54 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:46:54 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:46:54 | DEBUG    | IpruAI          | Body length: 87 chars
+2025-08-09 16:46:54 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:46:54 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:46:54 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:46:54 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:46:54 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-01 (email)
+2025-08-09 16:46:59 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:46:59 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:46:59 | DEBUG    | IpruAI          | Body length: 88 chars
+2025-08-09 16:46:59 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:46:59 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:46:59 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:46:59 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:46:59 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:47:08 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:47:08 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:47:08 | DEBUG    | IpruAI          | Body length: 88 chars
+2025-08-09 16:47:08 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:47:08 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:47:08 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:47:08 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:47:08 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:47:14 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:47:14 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:47:14 | DEBUG    | IpruAI          | Body length: 89 chars
+2025-08-09 16:47:14 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:47:14 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:47:14 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:47:14 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:47:14 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:49:44 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:49:48 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:49:48 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:49:48 | DEBUG    | IpruAI          | Body length: 89 chars
+2025-08-09 16:49:48 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:49:48 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:49:48 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:49:48 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:49:48 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-01 (email)
+2025-08-09 16:49:57 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:49:57 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:49:57 | DEBUG    | IpruAI          | Body length: 89 chars
+2025-08-09 16:49:57 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:49:57 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:49:57 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:49:57 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:49:57 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-01 (email)
+2025-08-09 16:50:15 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:50:15 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:50:15 | DEBUG    | IpruAI          | Body length: 89 chars
+2025-08-09 16:50:15 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:50:15 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:50:15 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:50:15 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:50:15 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-01 (email)
+2025-08-09 16:50:21 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:50:21 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:50:21 | DEBUG    | IpruAI          | Body length: 88 chars
+2025-08-09 16:50:21 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:50:21 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.3% | Method: rule_based
+2025-08-09 16:50:21 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:50:21 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:50:21 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:50:30 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:50:30 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:50:30 | DEBUG    | IpruAI          | Body length: 89 chars
+2025-08-09 16:50:30 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:50:30 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:50:30 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:50:30 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:50:30 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2024-12-01 (email)
+2025-08-09 16:50:36 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:50:36 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:50:36 | DEBUG    | IpruAI          | Body length: 89 chars
+2025-08-09 16:50:36 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:50:36 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:50:36 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:50:36 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:50:36 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:52:32 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:52:32 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:52:32 | DEBUG    | IpruAI          | Body length: 86 chars
+2025-08-09 16:52:32 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:52:32 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:52:32 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:52:32 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:52:32 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:52:43 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:52:43 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:52:43 | DEBUG    | IpruAI          | Body length: 86 chars
+2025-08-09 16:52:43 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:52:43 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:52:43 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:52:43 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:52:43 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:52:48 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:52:48 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 16:52:48 | DEBUG    | IpruAI          | Body length: 86 chars
+2025-08-09 16:52:48 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:52:48 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:52:48 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:52:48 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:52:48 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:52:58 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:52:58 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:52:58 | DEBUG    | IpruAI          | Body length: 86 chars
+2025-08-09 16:52:58 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:52:58 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 100.0% | Method: rule_based
+2025-08-09 16:52:58 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:52:58 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 16:52:58 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:53:08 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:53:08 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:53:08 | DEBUG    | IpruAI          | Body length: 71 chars
+2025-08-09 16:53:08 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:53:08 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 16:53:08 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:53:08 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:53:08 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:53:18 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:53:18 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:53:18 | DEBUG    | IpruAI          | Body length: 67 chars
+2025-08-09 16:53:18 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:53:18 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 16:53:18 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:53:18 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:53:18 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:53:25 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:53:25 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:53:25 | DEBUG    | IpruAI          | Body length: 67 chars
+2025-08-09 16:53:25 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:53:25 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:53:25 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:53:25 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:53:25 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:53:30 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:53:30 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:53:30 | DEBUG    | IpruAI          | Body length: 68 chars
+2025-08-09 16:53:30 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:53:30 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:53:30 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:53:30 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:53:30 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:53:35 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:53:35 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:53:35 | DEBUG    | IpruAI          | Body length: 69 chars
+2025-08-09 16:53:35 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:53:35 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:53:35 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:53:35 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:53:35 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:54:49 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:54:59 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:54:59 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:54:59 | DEBUG    | IpruAI          | Body length: 69 chars
+2025-08-09 16:54:59 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:54:59 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:54:59 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:54:59 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:54:59 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:55:15 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:55:15 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:55:15 | DEBUG    | IpruAI          | Body length: 69 chars
+2025-08-09 16:55:15 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:55:15 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:55:15 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:55:15 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:55:15 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:56:02 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 16:56:04 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:56:04 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:56:04 | DEBUG    | IpruAI          | Body length: 69 chars
+2025-08-09 16:56:04 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:56:04 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 16:56:04 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:56:04 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:56:04 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:56:13 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:56:13 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:56:13 | DEBUG    | IpruAI          | Body length: 68 chars
+2025-08-09 16:56:13 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:56:13 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 16:56:13 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:56:13 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:56:13 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:56:17 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:56:17 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:56:17 | DEBUG    | IpruAI          | Body length: 67 chars
+2025-08-09 16:56:17 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:56:17 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 16:56:17 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:56:17 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:56:17 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:56:22 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:56:22 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:56:22 | DEBUG    | IpruAI          | Body length: 66 chars
+2025-08-09 16:56:22 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:56:22 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 16:56:22 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:56:22 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:56:22 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2029-12-01 (email)
+2025-08-09 16:56:33 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:56:33 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:56:33 | DEBUG    | IpruAI          | Body length: 62 chars
+2025-08-09 16:56:33 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:56:33 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:56:33 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:56:33 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:56:33 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:56:44 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:56:44 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:56:44 | DEBUG    | IpruAI          | Body length: 68 chars
+2025-08-09 16:56:44 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:56:44 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:56:44 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:56:44 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:56:44 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:57:00 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:57:00 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:57:00 | DEBUG    | IpruAI          | Body length: 73 chars
+2025-08-09 16:57:00 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:57:00 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:57:00 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:57:00 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:57:00 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 16:57:12 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 16:57:12 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 16:57:12 | DEBUG    | IpruAI          | Body length: 58 chars
+2025-08-09 16:57:12 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 16:57:12 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 16:57:12 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 16:57:12 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 16:57:12 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 17:02:37 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 17:02:40 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:02:40 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:02:40 | DEBUG    | IpruAI          | Body length: 58 chars
+2025-08-09 17:02:40 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:02:40 | DEBUG    | tzlocal         | Looking up time zone info from registry
+2025-08-09 17:02:40 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 89.33% | Method: rule_based
+2025-08-09 17:02:40 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:02:40 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:02:40 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-01-01 (email)
+2025-08-09 17:04:15 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 17:04:16 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:04:16 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:04:16 | DEBUG    | IpruAI          | Body length: 58 chars
+2025-08-09 17:04:16 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:04:16 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:04:16 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:04:16 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:04:16 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-09 (email)
+2025-08-09 17:04:18 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:04:18 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:04:18 | DEBUG    | IpruAI          | Body length: 58 chars
+2025-08-09 17:04:18 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:04:18 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:04:18 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:04:18 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:04:18 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-09 (email)
+2025-08-09 17:04:38 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:04:38 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:04:38 | DEBUG    | IpruAI          | Body length: 71 chars
+2025-08-09 17:04:38 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:04:38 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:04:38 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:04:38 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:04:38 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-09 (email)
+2025-08-09 17:04:40 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:04:40 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:04:40 | DEBUG    | IpruAI          | Body length: 71 chars
+2025-08-09 17:04:40 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:04:40 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:04:40 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:04:40 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:04:40 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-09 (email)
+2025-08-09 17:04:47 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:04:47 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:04:47 | DEBUG    | IpruAI          | Body length: 73 chars
+2025-08-09 17:04:47 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:04:47 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:04:47 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:04:47 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:04:47 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-09 (email)
+2025-08-09 17:06:03 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:06:03 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:06:03 | DEBUG    | IpruAI          | Body length: 53 chars
+2025-08-09 17:06:03 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:06:03 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 17:06:03 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:06:03 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:06:03 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 17:06:11 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:06:11 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:06:11 | DEBUG    | IpruAI          | Body length: 53 chars
+2025-08-09 17:06:11 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:06:11 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 17:06:11 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:06:11 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:06:11 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 17:06:38 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 17:07:07 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:07:07 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:07:07 | DEBUG    | IpruAI          | Body length: 53 chars
+2025-08-09 17:07:07 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:07:07 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:07:07 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:07:07 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:07:07 | DEBUG    | IpruAI          | Date range: 2022-04-01 to 2023-03-31 (email)
+2025-08-09 17:07:09 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:07:09 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:07:09 | DEBUG    | IpruAI          | Body length: 53 chars
+2025-08-09 17:07:09 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:07:09 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:07:09 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:07:09 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:07:09 | DEBUG    | IpruAI          | Date range: 2022-04-01 to 2023-03-31 (email)
+2025-08-09 17:07:10 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:07:10 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:07:10 | DEBUG    | IpruAI          | Body length: 53 chars
+2025-08-09 17:07:10 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:07:10 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:07:10 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:07:10 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:07:10 | DEBUG    | IpruAI          | Date range: 2022-04-01 to 2023-03-31 (email)
+2025-08-09 17:07:11 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:07:11 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:07:11 | DEBUG    | IpruAI          | Body length: 53 chars
+2025-08-09 17:07:11 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:07:11 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:07:11 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:07:11 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:07:11 | DEBUG    | IpruAI          | Date range: 2022-04-01 to 2023-03-31 (email)
+2025-08-09 17:07:22 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:07:22 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:07:22 | DEBUG    | IpruAI          | Body length: 62 chars
+2025-08-09 17:07:22 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:07:22 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:07:22 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:07:22 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:07:22 | DEBUG    | IpruAI          | Date range: 2022-04-01 to 2023-03-31 (email)
+2025-08-09 17:07:27 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:07:27 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:07:27 | DEBUG    | IpruAI          | Body length: 59 chars
+2025-08-09 17:07:27 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:07:27 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 17:07:27 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:07:27 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:07:27 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 17:14:21 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 17:14:27 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:14:27 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:14:27 | DEBUG    | IpruAI          | Body length: 59 chars
+2025-08-09 17:14:27 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:14:27 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:14:27 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:14:27 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:14:27 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:14:39 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:14:39 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:14:39 | DEBUG    | IpruAI          | Body length: 56 chars
+2025-08-09 17:14:39 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:14:39 | DEBUG    | datefinder      | Parsing last with dateutil
+2025-08-09 17:14:39 | DEBUG    | datefinder      | Unknown string format: last
+2025-08-09 17:14:39 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 17:14:39 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:14:39 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:14:39 | DEBUG    | IpruAI          | Date range: 2024-04-01 to 2025-03-31 (email)
+2025-08-09 17:14:51 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:14:51 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:14:51 | DEBUG    | IpruAI          | Body length: 59 chars
+2025-08-09 17:14:51 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:14:51 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 17:14:51 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:14:51 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:14:51 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 17:18:03 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 17:18:11 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:18:11 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:18:11 | DEBUG    | IpruAI          | Body length: 59 chars
+2025-08-09 17:18:11 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:18:11 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 89.33% | Method: rule_based
+2025-08-09 17:18:11 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:18:11 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:18:11 | DEBUG    | IpruAI          | Date range: 2024-04-01 to 2025-03-31 (email)
+2025-08-09 17:18:18 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:18:18 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:18:18 | DEBUG    | IpruAI          | Body length: 58 chars
+2025-08-09 17:18:18 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:18:18 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 89.33% | Method: rule_based
+2025-08-09 17:18:18 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:18:18 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:18:18 | DEBUG    | IpruAI          | Date range: 2024-04-01 to 2025-03-31 (email)
+2025-08-09 17:18:25 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:18:25 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:18:25 | DEBUG    | IpruAI          | Body length: 56 chars
+2025-08-09 17:18:25 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:18:25 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 53.66% | Method: rule_based
+2025-08-09 17:18:25 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:18:25 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:18:25 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 17:18:32 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:18:32 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:18:32 | DEBUG    | IpruAI          | Body length: 57 chars
+2025-08-09 17:18:32 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:18:32 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 84.89% | Method: rule_based
+2025-08-09 17:18:32 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:18:32 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:18:32 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:20:30 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:20:30 | DEBUG    | IpruAI          | Subject: Statement aif Request
+2025-08-09 17:20:30 | DEBUG    | IpruAI          | Body length: 57 chars
+2025-08-09 17:20:30 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:20:30 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 84.89% | Method: rule_based
+2025-08-09 17:20:30 | DEBUG    | IpruAI          | Categories: ['PMS', 'AIF'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal', 'AIF_Statement']
+2025-08-09 17:20:30 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:20:30 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:22:25 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 17:22:27 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:22:27 | DEBUG    | IpruAI          | Subject: Statement aif Request
+2025-08-09 17:22:27 | DEBUG    | IpruAI          | Body length: 57 chars
+2025-08-09 17:22:27 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:22:27 | WARNING  | IpruAI.Parser   | AIF statements require AIF folio or PAN, not DI code only
+2025-08-09 17:22:27 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 93.38% | Method: rule_based
+2025-08-09 17:22:27 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:22:27 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:22:27 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:22:35 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:22:35 | DEBUG    | IpruAI          | Subject: Statement aifRequest
+2025-08-09 17:22:35 | DEBUG    | IpruAI          | Body length: 57 chars
+2025-08-09 17:22:35 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:22:35 | WARNING  | IpruAI.Parser   | AIF statements require AIF folio or PAN, not DI code only
+2025-08-09 17:22:35 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 93.38% | Method: rule_based
+2025-08-09 17:22:35 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:22:35 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:22:35 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:22:37 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:22:37 | DEBUG    | IpruAI          | Subject: Statement aifRequest
+2025-08-09 17:22:37 | DEBUG    | IpruAI          | Body length: 57 chars
+2025-08-09 17:22:37 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:22:37 | WARNING  | IpruAI.Parser   | AIF statements require AIF folio or PAN, not DI code only
+2025-08-09 17:22:37 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 93.38% | Method: rule_based
+2025-08-09 17:22:37 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:22:37 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:22:37 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:22:52 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:22:52 | DEBUG    | IpruAI          | Subject: Statement pmsRequest
+2025-08-09 17:22:52 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-09 17:22:52 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:22:52 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 84.89% | Method: rule_based
+2025-08-09 17:22:52 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-09 17:22:52 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:22:52 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:22:58 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:22:58 | DEBUG    | IpruAI          | Subject: Statement Request
+2025-08-09 17:22:58 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-09 17:22:58 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:22:58 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 84.89% | Method: rule_based
+2025-08-09 17:22:58 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-09 17:22:58 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:22:58 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:23:04 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:23:04 | DEBUG    | IpruAI          | Subject: data
+2025-08-09 17:23:04 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-09 17:23:04 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:23:04 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 35.75% | Method: rule_based
+2025-08-09 17:23:04 | DEBUG    | IpruAI          | Categories: [] | Types: []
+2025-08-09 17:23:04 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=0, Accounts=0, Folios=0
+2025-08-09 17:23:04 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:23:22 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:23:22 | DEBUG    | IpruAI          | Subject: data
+2025-08-09 17:23:22 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-09 17:23:22 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:23:22 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 35.75% | Method: rule_based
+2025-08-09 17:23:22 | DEBUG    | IpruAI          | Categories: [] | Types: []
+2025-08-09 17:23:22 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=0, Accounts=0, Folios=0
+2025-08-09 17:23:22 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:24:09 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-09 17:24:11 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:24:11 | DEBUG    | IpruAI          | Subject: data
+2025-08-09 17:24:11 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-09 17:24:11 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:24:11 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 36.75% | Method: rule_based
+2025-08-09 17:24:11 | DEBUG    | IpruAI          | Categories: [] | Types: []
+2025-08-09 17:24:11 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:24:11 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:24:25 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:24:25 | DEBUG    | IpruAI          | Subject: soa
+2025-08-09 17:24:25 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-09 17:24:25 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:24:25 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 84.89% | Method: rule_based
+2025-08-09 17:24:25 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-09 17:24:25 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:24:25 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:24:44 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:24:44 | DEBUG    | IpruAI          | Subject: data
+2025-08-09 17:24:44 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-09 17:24:44 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:24:44 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 36.75% | Method: rule_based
+2025-08-09 17:24:44 | DEBUG    | IpruAI          | Categories: [] | Types: []
+2025-08-09 17:24:44 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 17:24:44 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 17:27:46 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:27:46 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 17:27:46 | DEBUG    | IpruAI          | Body length: 80 chars
+2025-08-09 17:27:46 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:27:46 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 99.94% | Method: rule_based
+2025-08-09 17:27:46 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:27:46 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 17:27:46 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2024-03-15 (email)
+2025-08-09 17:28:01 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:28:01 | DEBUG    | IpruAI          | Subject: PMS Statement Request
+2025-08-09 17:28:01 | DEBUG    | IpruAI          | Body length: 80 chars
+2025-08-09 17:28:01 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:28:01 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 99.94% | Method: rule_based
+2025-08-09 17:28:01 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Factsheet', 'Portfolio_Appraisal']
+2025-08-09 17:28:01 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=1, Accounts=0, Folios=0
+2025-08-09 17:28:01 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2024-03-15 (email)
+2025-08-09 17:35:44 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 17:35:44 | DEBUG    | IpruAI          | Subject: soa
+2025-08-09 17:35:44 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-09 17:35:44 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 17:35:44 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-09 17:35:44 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-09 17:35:44 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-09 17:35:44 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-08 (default)
+2025-08-09 18:32:20 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 18:32:20 | DEBUG    | IpruAI          | Subject: data
+2025-08-09 18:32:20 | DEBUG    | IpruAI          | Body length: 39 chars
+2025-08-09 18:32:20 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 18:32:20 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 40.25% | Method: rule_based
+2025-08-09 18:32:20 | DEBUG    | IpruAI          | Categories: [] | Types: []
+2025-08-09 18:32:20 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 18:32:20 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 18:40:53 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 18:40:53 | DEBUG    | IpruAI          | Subject: data
+2025-08-09 18:40:53 | DEBUG    | IpruAI          | Body length: 39 chars
+2025-08-09 18:40:53 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 18:40:53 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 40.25% | Method: rule_based
+2025-08-09 18:40:53 | DEBUG    | IpruAI          | Categories: [] | Types: []
+2025-08-09 18:40:53 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 18:40:53 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)
+2025-08-09 18:41:04 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-09 18:41:04 | DEBUG    | IpruAI          | Subject: soa
+2025-08-09 18:41:04 | DEBUG    | IpruAI          | Body length: 39 chars
+2025-08-09 18:41:04 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-09.log
+2025-08-09 18:41:04 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 91.22% | Method: rule_based
+2025-08-09 18:41:04 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-09 18:41:04 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=1, Accounts=0, Folios=0
+2025-08-09 18:41:04 | DEBUG    | IpruAI          | Date range: 2025-04-01 to 2026-03-31 (email)

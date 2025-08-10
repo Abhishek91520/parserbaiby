@@ -1,0 +1,78 @@
+{
+  "pms": {
+    "Portfolio_Factsheet": {
+      "primary": ["pms factsheet", "portfolio factsheet", "factsheet"],
+      "secondary": ["portfolio fact sheet", "portfolio fs", "soa factsheet", "fs"],
+      "weight": 0.9
+    },
+    "Portfolio_Appraisal": {
+      "primary": ["soa", "pms statement", "pms stmt", "portfolio appraisal", "statement", "portfolio statement"],
+      "secondary": ["pms statements", "pms soa", "portfolio report", "account statement", 
+                   "pms reports", "pms report", "latest valuation report", "valuation report",
+                   "portfolio summary", "holdings", "portfolio holding", "holding statement",
+                   "pms status", "pms details", "account holding", "portfolio details", "client statement"],
+      "weight": 0.98
+    },
+    "Performance_Appraisal": {
+      "primary": ["performance appraisal statement", "performance statement", "performance report"],
+      "secondary": ["pms valuation", "performance summary", "performance appraisal"],
+      "weight": 0.85
+    },
+    "Transaction_Statement": {
+      "primary": ["pms transaction", "transaction statement", "transaction report"],
+      "secondary": ["trxn statement", "trxn soa", "transaction soa", "trxn"],
+      "weight": 0.8
+    },
+    "Capital_Register": {
+      "primary": ["capital register"],
+      "secondary": ["inflow outflow report", "capital reg"],
+      "weight": 0.75
+    },
+    "Bank_Book": {
+      "primary": ["bank book"],
+      "secondary": ["bankbook"],
+      "weight": 0.7
+    },
+    "Statement_of_Dividend": {
+      "primary": ["dividend statement", "statement of dividend"],
+      "secondary": ["dividend soa", "dividend report"],
+      "weight": 0.7
+    },
+    "Statement_of_Expense": {
+      "primary": ["expense statement", "statement of expense"],
+      "secondary": ["expense soa", "expense report"],
+      "weight": 0.7
+    },
+    "Statement_of_Capital_Gain_Loss": {
+      "primary": ["capital gain statement", "statement of capital gain loss"],
+      "secondary": ["capital gain", "gain-loss", "cgs", "gain statement", "capital loss"],
+      "weight": 0.75
+    },
+    "Client_Details": {
+      "primary": ["client details", "client master"],
+      "secondary": ["client detail", "client info"],
+      "weight": 0.8
+    }
+  },
+  "aif": {
+    "AIF_Statement": {
+      "primary": ["aif statement", "aif soa", "aif report", "aif factsheet", "aif", "alternative investment fund"],
+      "secondary": ["aif summary", "alternative investment fund statement", "aif portfolio",
+                   "aif holding", "aif valuation", "aif performance", "aif transaction",
+                   "aif capital account"],
+      "weight": 0.9
+    }
+  },
+  "all_patterns": {
+    "all_statements": [
+      "all statements", "all stmts", "all statement", "all reports", "everything",
+      "complete statements", "entire portfolio", "full statements"
+    ],
+    "all_pms": [
+      "all pms", "all pms statements", "all pms reports", "complete pms"
+    ],
+    "all_aif": [
+      "all aif", "all aif statements", "all aif reports", "complete aif"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": "1.1",
+  "confidence_threshold": 75.0,
+  "confidence_weights": {
+    "statement_type": 0.45,
+    "date_parsing": 0.35,
+    "identifiers": 0.2
+  },
+  "ml_model": {
+    "model_path": "models/flair_model",
+    "embedding_dim": 100,
+    "hidden_dim": 256,
+    "learning_rate": 0.1,
+    "batch_size": 32,
+    "epochs": 100,
+    "patience": 10
+  },
+  "training": {
+    "train_split": 0.8,
+    "val_split": 0.2,
+    "random_seed": 42
+  }
+}

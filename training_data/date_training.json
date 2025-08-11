@@ -1,0 +1,3579 @@
+[
+  {
+    "text": "Send statement as on 14.05.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-14",
+    "confidence": 92.80817426395073
+  },
+  {
+    "text": "Send statement as on December 30, 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-12-30",
+    "confidence": 88.85043057436991
+  },
+  {
+    "text": "Send statement as on 12-Aug-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-08-12",
+    "confidence": 91.47541290083299
+  },
+  {
+    "text": "Send statement as on 15-09-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-15",
+    "confidence": 94.33906844993815
+  },
+  {
+    "text": "Send statement as on 01/01/26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-01",
+    "confidence": 91.52901132294666
+  },
+  {
+    "text": "Send statement as on Jun 26, 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-06-26",
+    "confidence": 94.52393619765024
+  },
+  {
+    "text": "Send statement as on 05/05/26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-05",
+    "confidence": 91.47499310181504
+  },
+  {
+    "text": "Send statement as on 31-07-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-07-31",
+    "confidence": 85.18420477087027
+  },
+  {
+    "text": "Send statement as on 02/08/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-02",
+    "confidence": 93.5629153883704
+  },
+  {
+    "text": "Send statement as on 02-03-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-02",
+    "confidence": 87.35127070325625
+  },
+  {
+    "text": "Send statement as on 2025-06-16",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-06-16",
+    "confidence": 89.90386272317758
+  },
+  {
+    "text": "Send statement as on 09/02/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-09",
+    "confidence": 94.95483051314412
+  },
+  {
+    "text": "Send statement as on 2024-09-12",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-12",
+    "confidence": 91.58186798300612
+  },
+  {
+    "text": "Send statement as on 30-05-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-30",
+    "confidence": 87.69138687008261
+  },
+  {
+    "text": "Send statement as on 17-Jul-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-17",
+    "confidence": 85.82521486004059
+  },
+  {
+    "text": "Send statement as on 12 Jul 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-12",
+    "confidence": 87.6128432088857
+  },
+  {
+    "text": "Send statement as on 2026-02-19",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-02-19",
+    "confidence": 86.68297256027533
+  },
+  {
+    "text": "Send statement as on 30/01/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-30",
+    "confidence": 90.52725739438553
+  },
+  {
+    "text": "Send statement as on 15/10/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-15",
+    "confidence": 89.01562192262548
+  },
+  {
+    "text": "Send statement as on 01-Nov-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-01",
+    "confidence": 91.75754631112349
+  },
+  {
+    "text": "Send statement as at 2025/12/08",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-08",
+    "confidence": 89.7446710836907
+  },
+  {
+    "text": "Send statement as at 04 Aug 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-08-04",
+    "confidence": 86.24967103675428
+  },
+  {
+    "text": "Send statement as at 16 August 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-16",
+    "confidence": 90.36810436259377
+  },
+  {
+    "text": "Send statement as at 22 May 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-22",
+    "confidence": 85.63446618660936
+  },
+  {
+    "text": "Send statement as at 10.06.2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-06-10",
+    "confidence": 85.42956103622693
+  },
+  {
+    "text": "Send statement as at 14-03-26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-14",
+    "confidence": 93.53030820962404
+  },
+  {
+    "text": "Send statement as at 28/09/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-09-28",
+    "confidence": 92.68583372614181
+  },
+  {
+    "text": "Send statement as at 19 Aug 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-19",
+    "confidence": 87.72837601532024
+  },
+  {
+    "text": "Send statement as at 22-10-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-22",
+    "confidence": 89.96867920134142
+  },
+  {
+    "text": "Send statement as at 17/01/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-17",
+    "confidence": 94.3848832065177
+  },
+  {
+    "text": "Send statement as at 24 Aug 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-24",
+    "confidence": 88.558382698394
+  },
+  {
+    "text": "Send statement as at 29.01.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-29",
+    "confidence": 93.04570747322381
+  },
+  {
+    "text": "Send statement as at 29 Oct 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-29",
+    "confidence": 85.37867218227952
+  },
+  {
+    "text": "Send statement as at 22.08.2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-08-22",
+    "confidence": 89.22427966464498
+  },
+  {
+    "text": "Send statement as at 25 Jul 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-25",
+    "confidence": 87.96151955227201
+  },
+  {
+    "text": "Send statement as at 22-02-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-22",
+    "confidence": 86.96234792934317
+  },
+  {
+    "text": "Send statement as at 2025/09/24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-09-24",
+    "confidence": 91.94814212530594
+  },
+  {
+    "text": "Send statement as at 31-08-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-08-31",
+    "confidence": 92.88984130320347
+  },
+  {
+    "text": "Send statement as at 18.07.2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-07-18",
+    "confidence": 90.80410032462046
+  },
+  {
+    "text": "Send statement as at 14 Sep 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-14",
+    "confidence": 87.59906122504427
+  },
+  {
+    "text": "Send statement for 26 Mar 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-03-26",
+    "confidence": 93.35082104345489
+  },
+  {
+    "text": "Send statement for 11-03-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-03-11",
+    "confidence": 86.99872896921997
+  },
+  {
+    "text": "Send statement for May 05, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-05",
+    "confidence": 89.77530801932167
+  },
+  {
+    "text": "Send statement for 28-03-26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-28",
+    "confidence": 86.20375242161501
+  },
+  {
+    "text": "Send statement for 11/07/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-11",
+    "confidence": 87.10433644199405
+  },
+  {
+    "text": "Send statement for Dec 30, 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-12-30",
+    "confidence": 89.82442314434162
+  },
+  {
+    "text": "Send statement for 16/02/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-16",
+    "confidence": 87.0438556348617
+  },
+  {
+    "text": "Send statement for 05-May-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-05",
+    "confidence": 89.11414785997393
+  },
+  {
+    "text": "Send statement for 14-11-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-14",
+    "confidence": 85.65438045701063
+  },
+  {
+    "text": "Send statement for 31-07-26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-07-31",
+    "confidence": 91.5254655157146
+  },
+  {
+    "text": "Send statement for 2024/11/17",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-17",
+    "confidence": 91.43105752114506
+  },
+  {
+    "text": "Send statement for 06 March 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-06",
+    "confidence": 88.51831167031759
+  },
+  {
+    "text": "Send statement for 16-11-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-16",
+    "confidence": 91.62549877419002
+  },
+  {
+    "text": "Send statement for 2025/09/14",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-09-14",
+    "confidence": 89.44177660306697
+  },
+  {
+    "text": "Send statement for 20/01/26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-20",
+    "confidence": 94.98038861458123
+  },
+  {
+    "text": "Send statement for 23-11-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-23",
+    "confidence": 86.99377802235168
+  },
+  {
+    "text": "Send statement for 01 December 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-01",
+    "confidence": 87.72764850859376
+  },
+  {
+    "text": "Send statement for 2025/07/05",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-05",
+    "confidence": 88.65835568543035
+  },
+  {
+    "text": "Send statement for 11-May-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-11",
+    "confidence": 89.58078140738377
+  },
+  {
+    "text": "Send statement for 27.09.2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-27",
+    "confidence": 85.4788608216165
+  },
+  {
+    "text": "Send statement on 24-04-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-04-24",
+    "confidence": 86.1218903381173
+  },
+  {
+    "text": "Send statement on 30/11/24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-30",
+    "confidence": 85.90615250162189
+  },
+  {
+    "text": "Send statement on 25-05-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-25",
+    "confidence": 94.475563564799
+  },
+  {
+    "text": "Send statement on 05-Nov-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-05",
+    "confidence": 94.22263023829203
+  },
+  {
+    "text": "Send statement on 30/01/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-30",
+    "confidence": 92.07113109499858
+  },
+  {
+    "text": "Send statement on 24-May-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-24",
+    "confidence": 93.50958603178466
+  },
+  {
+    "text": "Send statement on 2026-06-09",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-06-09",
+    "confidence": 92.10487645572772
+  },
+  {
+    "text": "Send statement on 2025-02-04",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-04",
+    "confidence": 92.46773415571761
+  },
+  {
+    "text": "Send statement on 08-10-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-08",
+    "confidence": 88.62932318564894
+  },
+  {
+    "text": "Send statement on 15.09.2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-15",
+    "confidence": 92.96998629864699
+  },
+  {
+    "text": "Send statement on 10/02/2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-02-10",
+    "confidence": 93.88633343135265
+  },
+  {
+    "text": "Send statement on 12-03-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-03-12",
+    "confidence": 91.49096906242376
+  },
+  {
+    "text": "Send statement on 18.07.2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-07-18",
+    "confidence": 91.69649766801831
+  },
+  {
+    "text": "Send statement on 12/12/24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-12-12",
+    "confidence": 90.64373822736702
+  },
+  {
+    "text": "Send statement on 30 November 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-30",
+    "confidence": 92.17073767783643
+  },
+  {
+    "text": "Send statement on 11/11/2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-11",
+    "confidence": 90.79610841485751
+  },
+  {
+    "text": "Send statement on 2025/01/18",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-18",
+    "confidence": 87.6391268810706
+  },
+  {
+    "text": "Send statement on 14.05.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-14",
+    "confidence": 89.37463855819556
+  },
+  {
+    "text": "Send statement on 20.09.2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-20",
+    "confidence": 90.35458959627782
+  },
+  {
+    "text": "Send statement on Jun 05, 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-06-05",
+    "confidence": 94.72780473877735
+  },
+  {
+    "text": "Send statement dated 2025/09/05",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-09-05",
+    "confidence": 94.3383022912562
+  },
+  {
+    "text": "Send statement dated 08.08.2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-08-08",
+    "confidence": 91.0045765353945
+  },
+  {
+    "text": "Send statement dated 2026-01-19",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-19",
+    "confidence": 85.37311438107113
+  },
+  {
+    "text": "Send statement dated 18-Jan-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-18",
+    "confidence": 85.1540562430926
+  },
+  {
+    "text": "Send statement dated 05/02/2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-02-05",
+    "confidence": 85.98430471647973
+  },
+  {
+    "text": "Send statement dated 25-12-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-25",
+    "confidence": 86.05783901805981
+  },
+  {
+    "text": "Send statement dated 10 Jul 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-07-10",
+    "confidence": 92.39096389082471
+  },
+  {
+    "text": "Send statement dated 23 October 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-23",
+    "confidence": 88.99917568543232
+  },
+  {
+    "text": "Send statement dated 05/02/26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-02-05",
+    "confidence": 90.46715974285284
+  },
+  {
+    "text": "Send statement dated 2025-01-27",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-27",
+    "confidence": 86.68299604242938
+  },
+  {
+    "text": "Send statement dated 02/07/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-02",
+    "confidence": 89.23397004890282
+  },
+  {
+    "text": "Send statement dated 05 Jun 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-06-05",
+    "confidence": 88.51257595495983
+  },
+  {
+    "text": "Send statement dated Nov 13, 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-13",
+    "confidence": 90.39848800269809
+  },
+  {
+    "text": "Send statement dated 23 Feb 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-23",
+    "confidence": 94.29263538792583
+  },
+  {
+    "text": "Send statement dated 31/08/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-31",
+    "confidence": 94.32292353468401
+  },
+  {
+    "text": "Send statement dated 30-12-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-30",
+    "confidence": 94.93630888804145
+  },
+  {
+    "text": "Send statement dated 30 Mar 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-30",
+    "confidence": 86.32393496138171
+  },
+  {
+    "text": "Send statement dated 14-08-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-14",
+    "confidence": 88.34404100494888
+  },
+  {
+    "text": "Send statement dated 20-Nov-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-20",
+    "confidence": 86.25412468121584
+  },
+  {
+    "text": "Send statement dated 09.10.2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-09",
+    "confidence": 88.76572929135035
+  },
+  {
+    "text": "Send statement statement for 29/10/24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-29",
+    "confidence": 91.48939635836861
+  },
+  {
+    "text": "Send statement statement for 26-Apr-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-04-26",
+    "confidence": 94.47266771143426
+  },
+  {
+    "text": "Send statement statement for 06-May-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-06",
+    "confidence": 88.91423132736438
+  },
+  {
+    "text": "Send statement statement for 2026-07-08",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-07-08",
+    "confidence": 89.87280507714308
+  },
+  {
+    "text": "Send statement statement for 22 December 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-22",
+    "confidence": 91.19889480796388
+  },
+  {
+    "text": "Send statement statement for 2026-01-27",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-27",
+    "confidence": 85.65765128259633
+  },
+  {
+    "text": "Send statement statement for May 30, 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-30",
+    "confidence": 89.4370154547887
+  },
+  {
+    "text": "Send statement statement for 25 Oct 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-25",
+    "confidence": 93.78742998767628
+  },
+  {
+    "text": "Send statement statement for 2025-05-20",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-20",
+    "confidence": 91.34018083993107
+  },
+  {
+    "text": "Send statement statement for 19 Dec 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-12-19",
+    "confidence": 86.15066979175
+  },
+  {
+    "text": "Send statement statement for 14/08/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-14",
+    "confidence": 87.28988103325322
+  },
+  {
+    "text": "Send statement statement for 16-05-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-16",
+    "confidence": 89.89382896520625
+  },
+  {
+    "text": "Send statement statement for 01/10/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-01",
+    "confidence": 90.47257163812557
+  },
+  {
+    "text": "Send statement statement for 02/09/2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-02",
+    "confidence": 85.55599192364242
+  },
+  {
+    "text": "Send statement statement for 23.05.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-23",
+    "confidence": 92.116187387287
+  },
+  {
+    "text": "Send statement statement for 2026/05/28",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-28",
+    "confidence": 94.04637473879984
+  },
+  {
+    "text": "Send statement statement for 20.11.2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-20",
+    "confidence": 92.4742115183278
+  },
+  {
+    "text": "Send statement statement for 29-11-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-29",
+    "confidence": 86.35172506782972
+  },
+  {
+    "text": "Send statement statement for 16-12-24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-12-16",
+    "confidence": 87.7722965963799
+  },
+  {
+    "text": "Send statement statement for 2025-11-27",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-27",
+    "confidence": 87.40969074177823
+  },
+  {
+    "text": "Send statement report for May 13, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-13",
+    "confidence": 93.77002369629093
+  },
+  {
+    "text": "Send statement report for 18-Feb-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-02-18",
+    "confidence": 89.6071451939717
+  },
+  {
+    "text": "Send statement report for Dec 31, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-31",
+    "confidence": 94.04316666635941
+  },
+  {
+    "text": "Send statement report for 23-06-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-06-23",
+    "confidence": 94.1024414944478
+  },
+  {
+    "text": "Send statement report for May 04, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-04",
+    "confidence": 91.45866948030795
+  },
+  {
+    "text": "Send statement report for 22 Dec 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-22",
+    "confidence": 92.66816147110308
+  },
+  {
+    "text": "Send statement report for 2025-04-27",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-04-27",
+    "confidence": 92.3282521218004
+  },
+  {
+    "text": "Send statement report for 2024-10-27",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-27",
+    "confidence": 89.90927600014724
+  },
+  {
+    "text": "Send statement report for 21 January 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-21",
+    "confidence": 91.96445654426049
+  },
+  {
+    "text": "Send statement report for 19/04/2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-04-19",
+    "confidence": 86.07986908163998
+  },
+  {
+    "text": "Send statement report for Feb 23, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-23",
+    "confidence": 94.00430613934145
+  },
+  {
+    "text": "Send statement report for 18-09-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-09-18",
+    "confidence": 87.64121438641921
+  },
+  {
+    "text": "Send statement report for 02-10-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-02",
+    "confidence": 86.2590873237073
+  },
+  {
+    "text": "Send statement report for 22 Mar 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-22",
+    "confidence": 91.91946977193335
+  },
+  {
+    "text": "Send statement report for September 08, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-09-08",
+    "confidence": 88.02724188100972
+  },
+  {
+    "text": "Send statement report for 04/12/24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-12-04",
+    "confidence": 87.55390004693325
+  },
+  {
+    "text": "Send statement report for 08/05/2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-08",
+    "confidence": 88.45701924352886
+  },
+  {
+    "text": "Send statement report for 03.04.2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-04-03",
+    "confidence": 90.69202091043037
+  },
+  {
+    "text": "Send statement report for 21/10/24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-21",
+    "confidence": 86.7772630515754
+  },
+  {
+    "text": "Send statement report for 2024/10/12",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-12",
+    "confidence": 88.0441842843001
+  },
+  {
+    "text": "Send statement position as on 20-04-26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-04-20",
+    "confidence": 92.8876657214256
+  },
+  {
+    "text": "Send statement position as on 18 Nov 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-18",
+    "confidence": 91.14125898886708
+  },
+  {
+    "text": "Send statement position as on 26.10.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-26",
+    "confidence": 93.06469016328514
+  },
+  {
+    "text": "Send statement position as on 07 Jan 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-07",
+    "confidence": 92.73649596186064
+  },
+  {
+    "text": "Send statement position as on 2024/08/13",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-08-13",
+    "confidence": 94.39435056910625
+  },
+  {
+    "text": "Send statement position as on 10-01-26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-10",
+    "confidence": 88.91140816978836
+  },
+  {
+    "text": "Send statement position as on 21 Nov 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-21",
+    "confidence": 94.69152407664365
+  },
+  {
+    "text": "Send statement position as on 02-11-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-02",
+    "confidence": 85.33211083514311
+  },
+  {
+    "text": "Send statement position as on 2026/02/12",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-02-12",
+    "confidence": 92.27912498402242
+  },
+  {
+    "text": "Send statement position as on Jan 01, 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-01-01",
+    "confidence": 93.45982231894489
+  },
+  {
+    "text": "Send statement position as on 25-04-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-04-25",
+    "confidence": 91.06214035800389
+  },
+  {
+    "text": "Send statement position as on 25-02-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-25",
+    "confidence": 91.3487432893854
+  },
+  {
+    "text": "Send statement position as on 22 May 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-05-22",
+    "confidence": 94.73431497984662
+  },
+  {
+    "text": "Send statement position as on 05.07.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-05",
+    "confidence": 87.95187393803464
+  },
+  {
+    "text": "Send statement position as on 02.03.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-03-02",
+    "confidence": 92.75990173815472
+  },
+  {
+    "text": "Send statement position as on 06.02.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-02-06",
+    "confidence": 90.65889445020943
+  },
+  {
+    "text": "Send statement position as on 07-Jul-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-07",
+    "confidence": 85.13556501926422
+  },
+  {
+    "text": "Send statement position as on 08/10/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-08",
+    "confidence": 85.99385872269495
+  },
+  {
+    "text": "Send statement position as on 26-Jan-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-26",
+    "confidence": 88.31122460080746
+  },
+  {
+    "text": "Send statement position as on 12-10-24",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-12",
+    "confidence": 91.1171480218741
+  },
+  {
+    "text": "Send statement balance as on 2026/06/13",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-06-13",
+    "confidence": 91.88457753006256
+  },
+  {
+    "text": "Send statement balance as on 11-08-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-11",
+    "confidence": 88.50710810091303
+  },
+  {
+    "text": "Send statement balance as on 22-03-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-03-22",
+    "confidence": 91.17776121829745
+  },
+  {
+    "text": "Send statement balance as on 16 January 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-16",
+    "confidence": 89.20322227363074
+  },
+  {
+    "text": "Send statement balance as on 17-10-2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-17",
+    "confidence": 90.10233992405767
+  },
+  {
+    "text": "Send statement balance as on Aug 30, 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-08-30",
+    "confidence": 92.03353172849522
+  },
+  {
+    "text": "Send statement balance as on 09 Aug 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-09",
+    "confidence": 92.45627228159744
+  },
+  {
+    "text": "Send statement balance as on 26/08/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-26",
+    "confidence": 92.94547300918377
+  },
+  {
+    "text": "Send statement balance as on 30-Jun-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-06-30",
+    "confidence": 88.02402600491371
+  },
+  {
+    "text": "Send statement balance as on 29 Apr 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-04-29",
+    "confidence": 90.44970319820872
+  },
+  {
+    "text": "Send statement balance as on 2025/08/10",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-10",
+    "confidence": 90.88183977510789
+  },
+  {
+    "text": "Send statement balance as on 12/11/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-12",
+    "confidence": 93.2868965632462
+  },
+  {
+    "text": "Send statement balance as on 15.03.2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-15",
+    "confidence": 87.30708095439901
+  },
+  {
+    "text": "Send statement balance as on 2025/06/27",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-06-27",
+    "confidence": 93.83657147560058
+  },
+  {
+    "text": "Send statement balance as on 30-Jan-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-30",
+    "confidence": 94.57200804563175
+  },
+  {
+    "text": "Send statement balance as on 29-03-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-29",
+    "confidence": 89.34299697948975
+  },
+  {
+    "text": "Send statement balance as on 23 August 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-08-23",
+    "confidence": 94.14324388289918
+  },
+  {
+    "text": "Send statement balance as on 20/01/2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-20",
+    "confidence": 90.04948939759008
+  },
+  {
+    "text": "Send statement balance as on Nov 13, 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-11-13",
+    "confidence": 93.2906034719721
+  },
+  {
+    "text": "Send statement balance as on Dec 08, 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-12-08",
+    "confidence": 92.79363917587098
+  },
+  {
+    "text": "Send statement status as on 24.04.2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-04-24",
+    "confidence": 91.96152853089379
+  },
+  {
+    "text": "Send statement status as on 22/10/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-22",
+    "confidence": 88.36862431561347
+  },
+  {
+    "text": "Send statement status as on 20-Mar-2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-03-20",
+    "confidence": 86.16210673784434
+  },
+  {
+    "text": "Send statement status as on Aug 03, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-03",
+    "confidence": 92.35332712371348
+  },
+  {
+    "text": "Send statement status as on 2026-05-26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-26",
+    "confidence": 86.62067287698756
+  },
+  {
+    "text": "Send statement status as on 31/05/26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-31",
+    "confidence": 89.65987225123364
+  },
+  {
+    "text": "Send statement status as on 06/07/26",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-07-06",
+    "confidence": 92.01502456015503
+  },
+  {
+    "text": "Send statement status as on 21.06.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-06-21",
+    "confidence": 86.64447973801289
+  },
+  {
+    "text": "Send statement status as on 23-11-25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-11-23",
+    "confidence": 89.0939945736946
+  },
+  {
+    "text": "Send statement status as on 2025-07-18",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-07-18",
+    "confidence": 92.30757628117594
+  },
+  {
+    "text": "Send statement status as on Aug 04, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-04",
+    "confidence": 87.13484291796723
+  },
+  {
+    "text": "Send statement status as on May 26, 2026",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2026-05-26",
+    "confidence": 86.36461194057843
+  },
+  {
+    "text": "Send statement status as on 01/01/25",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-01-01",
+    "confidence": 87.30158943046968
+  },
+  {
+    "text": "Send statement status as on Mar 09, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-03-09",
+    "confidence": 86.69177791003405
+  },
+  {
+    "text": "Send statement status as on 31.12.2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-31",
+    "confidence": 91.47240468779523
+  },
+  {
+    "text": "Send statement status as on 25 December 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-25",
+    "confidence": 92.36220756293264
+  },
+  {
+    "text": "Send statement status as on 04-10-2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-10-04",
+    "confidence": 91.19284209722991
+  },
+  {
+    "text": "Send statement status as on October 19, 2024",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2024-10-19",
+    "confidence": 90.26477655279574
+  },
+  {
+    "text": "Send statement status as on 09 December 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-12-09",
+    "confidence": 85.1394461040863
+  },
+  {
+    "text": "Send statement status as on August 31, 2025",
+    "date_pattern": "single_date",
+    "from_date": "1990-01-01",
+    "to_date": "2025-08-31",
+    "confidence": 86.46011713355279
+  },
+  {
+    "text": "Send statement from 2025-08-07 to Mar 31, 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-08-07",
+    "to_date": "2026-03-31",
+    "confidence": 96.90612783980228
+  },
+  {
+    "text": "Send statement from 20 June 2025 to June 19, 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-06-20",
+    "to_date": "2026-06-19",
+    "confidence": 92.79475692452208
+  },
+  {
+    "text": "Send statement from 23.07.2025 to 14.02.2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-07-23",
+    "to_date": "2026-02-14",
+    "confidence": 97.33866478065639
+  },
+  {
+    "text": "Send statement from 18/06/26 to 2026-08-24",
+    "date_pattern": "date_range",
+    "from_date": "2026-06-18",
+    "to_date": "2026-08-24",
+    "confidence": 97.7103742786578
+  },
+  {
+    "text": "Send statement from October 31, 2025 to July 05, 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-10-31",
+    "to_date": "2026-07-05",
+    "confidence": 95.98645659900579
+  },
+  {
+    "text": "Send statement from 15 May 2025 to 12-11-2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-05-15",
+    "to_date": "2025-11-12",
+    "confidence": 91.67205826812119
+  },
+  {
+    "text": "Send statement from 18/10/24 to 07.08.2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-10-18",
+    "to_date": "2025-08-07",
+    "confidence": 90.75150889584691
+  },
+  {
+    "text": "Send statement from 2026-06-03 to September 25, 2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-06-03",
+    "to_date": "2026-09-25",
+    "confidence": 97.5708849549773
+  },
+  {
+    "text": "Send statement from 14-01-2026 to 19-Aug-2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-01-14",
+    "to_date": "2026-08-19",
+    "confidence": 90.71756090529982
+  },
+  {
+    "text": "Send statement from April 22, 2025 to 02/01/2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-04-22",
+    "to_date": "2026-01-02",
+    "confidence": 96.49704509350602
+  },
+  {
+    "text": "Send statement from 27 Jul 2025 to 23 June 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-07-27",
+    "to_date": "2026-06-23",
+    "confidence": 94.85266632700626
+  },
+  {
+    "text": "Send statement from 09-Feb-2026 to August 06, 2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-02-09",
+    "to_date": "2026-08-06",
+    "confidence": 97.31915366406166
+  },
+  {
+    "text": "Send statement from 2026-07-03 to 10-12-2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-07-03",
+    "to_date": "2026-12-10",
+    "confidence": 92.09469985863679
+  },
+  {
+    "text": "Send statement from 20-06-2025 to Aug 20, 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-06-20",
+    "to_date": "2025-08-20",
+    "confidence": 92.29803417527494
+  },
+  {
+    "text": "Send statement from February 11, 2026 to 2026-07-25",
+    "date_pattern": "date_range",
+    "from_date": "2026-02-11",
+    "to_date": "2026-07-25",
+    "confidence": 93.4712220741516
+  },
+  {
+    "text": "Send statement between 02/05/2026 and November 09, 2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-05-02",
+    "to_date": "2026-11-09",
+    "confidence": 93.04748033712666
+  },
+  {
+    "text": "Send statement between 23/10/2025 and 21-03-2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-10-23",
+    "to_date": "2026-03-21",
+    "confidence": 92.79583810577256
+  },
+  {
+    "text": "Send statement between 20-Jun-2026 and 2026-08-01",
+    "date_pattern": "date_range",
+    "from_date": "2026-06-20",
+    "to_date": "2026-08-01",
+    "confidence": 90.11299534761399
+  },
+  {
+    "text": "Send statement between 03-09-24 and 08-Nov-2024",
+    "date_pattern": "date_range",
+    "from_date": "2024-09-03",
+    "to_date": "2024-11-08",
+    "confidence": 95.83800063271441
+  },
+  {
+    "text": "Send statement between Dec 07, 2024 and 22 May 2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-12-07",
+    "to_date": "2025-05-22",
+    "confidence": 95.01990792395286
+  },
+  {
+    "text": "Send statement between 02 Jun 2025 and 05 August 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-06-02",
+    "to_date": "2025-08-05",
+    "confidence": 96.22428721115924
+  },
+  {
+    "text": "Send statement between 06 Nov 2024 and 2025/09/04",
+    "date_pattern": "date_range",
+    "from_date": "2024-11-06",
+    "to_date": "2025-09-04",
+    "confidence": 97.96853138343961
+  },
+  {
+    "text": "Send statement between 2026/04/10 and 26 September 2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-04-10",
+    "to_date": "2026-09-26",
+    "confidence": 90.05186204963287
+  },
+  {
+    "text": "Send statement between 20/01/2025 and 21.10.2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-01-20",
+    "to_date": "2025-10-21",
+    "confidence": 97.00155185752547
+  },
+  {
+    "text": "Send statement between 06/08/2025 and 29.06.2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-08-06",
+    "to_date": "2026-06-29",
+    "confidence": 95.45380185250976
+  },
+  {
+    "text": "Send statement between 04-Mar-2025 and 19 Oct 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-03-04",
+    "to_date": "2025-10-19",
+    "confidence": 94.99220682458854
+  },
+  {
+    "text": "Send statement between 15/04/2025 and 05-Dec-2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-04-15",
+    "to_date": "2025-12-05",
+    "confidence": 95.9357025217125
+  },
+  {
+    "text": "Send statement between 2026/06/30 and 2026-12-05",
+    "date_pattern": "date_range",
+    "from_date": "2026-06-30",
+    "to_date": "2026-12-05",
+    "confidence": 96.06600809421171
+  },
+  {
+    "text": "Send statement between 2025-01-08 and April 20, 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-01-08",
+    "to_date": "2025-04-20",
+    "confidence": 97.15816100099595
+  },
+  {
+    "text": "Send statement between 2026-05-27 and 14 December 2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-05-27",
+    "to_date": "2026-12-14",
+    "confidence": 91.44310055448636
+  },
+  {
+    "text": "Send statement period from 2025-11-08 to 03-Nov-2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-11-08",
+    "to_date": "2026-11-03",
+    "confidence": 90.08673529263675
+  },
+  {
+    "text": "Send statement period from 19/01/25 to 2025/12/31",
+    "date_pattern": "date_range",
+    "from_date": "2025-01-19",
+    "to_date": "2025-12-31",
+    "confidence": 90.91873277053844
+  },
+  {
+    "text": "Send statement period from 06-08-25 to 2025/09/06",
+    "date_pattern": "date_range",
+    "from_date": "2025-08-06",
+    "to_date": "2025-09-06",
+    "confidence": 97.9871822938
+  },
+  {
+    "text": "Send statement period from 10 April 2026 to 21 March 2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-04-10",
+    "to_date": "2027-03-21",
+    "confidence": 96.64439084347276
+  },
+  {
+    "text": "Send statement period from May 08, 2025 to 22-11-25",
+    "date_pattern": "date_range",
+    "from_date": "2025-05-08",
+    "to_date": "2025-11-22",
+    "confidence": 96.55989239644856
+  },
+  {
+    "text": "Send statement period from 08 November 2024 to 29 Sep 2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-11-08",
+    "to_date": "2025-09-29",
+    "confidence": 91.78250082840556
+  },
+  {
+    "text": "Send statement period from 29/03/2026 to 2026/12/14",
+    "date_pattern": "date_range",
+    "from_date": "2026-03-29",
+    "to_date": "2026-12-14",
+    "confidence": 90.56763451440189
+  },
+  {
+    "text": "Send statement period from 14 Mar 2025 to 30 Sep 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-03-14",
+    "to_date": "2025-09-30",
+    "confidence": 90.07854630884798
+  },
+  {
+    "text": "Send statement period from 12 November 2025 to Jan 24, 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-11-12",
+    "to_date": "2026-01-24",
+    "confidence": 94.70431000825461
+  },
+  {
+    "text": "Send statement period from 28 November 2024 to 16-Jan-2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-11-28",
+    "to_date": "2025-01-16",
+    "confidence": 91.14209026037946
+  },
+  {
+    "text": "Send statement period from 19/04/25 to 10 Mar 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-04-19",
+    "to_date": "2026-03-10",
+    "confidence": 94.94689026899653
+  },
+  {
+    "text": "Send statement period from April 24, 2025 to 15 Apr 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-04-24",
+    "to_date": "2026-04-15",
+    "confidence": 93.74393994550178
+  },
+  {
+    "text": "Send statement period from 28/07/2025 to 08/01/2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-07-28",
+    "to_date": "2026-01-08",
+    "confidence": 92.96746089919934
+  },
+  {
+    "text": "Send statement period from 18-06-2025 to Oct 19, 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-06-18",
+    "to_date": "2025-10-19",
+    "confidence": 92.80638361189384
+  },
+  {
+    "text": "Send statement period from 17/10/25 to 12-Jan-2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-10-17",
+    "to_date": "2026-01-12",
+    "confidence": 90.56723932582133
+  },
+  {
+    "text": "Send statement during July 15, 2025 to 2025/10/17",
+    "date_pattern": "date_range",
+    "from_date": "2025-07-15",
+    "to_date": "2025-10-17",
+    "confidence": 97.05330639112204
+  },
+  {
+    "text": "Send statement during 28-Jun-2026 to 27/09/2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-06-28",
+    "to_date": "2026-09-27",
+    "confidence": 93.0698366081951
+  },
+  {
+    "text": "Send statement during 16/02/2025 to 19/08/25",
+    "date_pattern": "date_range",
+    "from_date": "2025-02-16",
+    "to_date": "2025-08-19",
+    "confidence": 96.61686921497571
+  },
+  {
+    "text": "Send statement during Dec 04, 2024 to 19 August 2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-12-04",
+    "to_date": "2025-08-19",
+    "confidence": 92.54526268895467
+  },
+  {
+    "text": "Send statement during 24-06-2026 to 15-Apr-2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-06-24",
+    "to_date": "2027-04-15",
+    "confidence": 97.23892497709167
+  },
+  {
+    "text": "Send statement during 18 Sep 2024 to 05-May-2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-09-18",
+    "to_date": "2025-05-05",
+    "confidence": 95.20817446182319
+  },
+  {
+    "text": "Send statement during 15-Feb-2025 to 27.03.2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-02-15",
+    "to_date": "2025-03-27",
+    "confidence": 94.42429129922357
+  },
+  {
+    "text": "Send statement during 07 Sep 2025 to 11-07-2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-09-07",
+    "to_date": "2026-07-11",
+    "confidence": 90.58886531988003
+  },
+  {
+    "text": "Send statement during 24-12-2025 to 11/09/26",
+    "date_pattern": "date_range",
+    "from_date": "2025-12-24",
+    "to_date": "2026-09-11",
+    "confidence": 91.54882613300522
+  },
+  {
+    "text": "Send statement during 19/08/2024 to 2024-09-19",
+    "date_pattern": "date_range",
+    "from_date": "2024-08-19",
+    "to_date": "2024-09-19",
+    "confidence": 90.4621780235403
+  },
+  {
+    "text": "Send statement during 14-07-26 to 09 December 2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-07-14",
+    "to_date": "2026-12-09",
+    "confidence": 94.01292754122771
+  },
+  {
+    "text": "Send statement during July 15, 2026 to 13/12/2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-07-15",
+    "to_date": "2026-12-13",
+    "confidence": 96.58311905058733
+  },
+  {
+    "text": "Send statement during March 19, 2025 to 2025/06/17",
+    "date_pattern": "date_range",
+    "from_date": "2025-03-19",
+    "to_date": "2025-06-17",
+    "confidence": 93.88337413298085
+  },
+  {
+    "text": "Send statement during 15/02/2026 to 2026-08-29",
+    "date_pattern": "date_range",
+    "from_date": "2026-02-15",
+    "to_date": "2026-08-29",
+    "confidence": 91.98602525110496
+  },
+  {
+    "text": "Send statement during 17.04.2025 to 11 January 2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-04-17",
+    "to_date": "2026-01-11",
+    "confidence": 93.73132854177985
+  },
+  {
+    "text": "Send statement Aug 14, 2024 to Apr 11, 2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-08-14",
+    "to_date": "2025-04-11",
+    "confidence": 95.33182766631337
+  },
+  {
+    "text": "Send statement 21 Jan 2025 to 2025-04-01",
+    "date_pattern": "date_range",
+    "from_date": "2025-01-21",
+    "to_date": "2025-04-01",
+    "confidence": 93.01012963974773
+  },
+  {
+    "text": "Send statement 12 November 2025 to 08/09/26",
+    "date_pattern": "date_range",
+    "from_date": "2025-11-12",
+    "to_date": "2026-09-08",
+    "confidence": 91.56245582241597
+  },
+  {
+    "text": "Send statement 2026-07-30 to 08/06/2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-07-30",
+    "to_date": "2027-06-08",
+    "confidence": 93.90265253418625
+  },
+  {
+    "text": "Send statement September 08, 2024 to Jul 18, 2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-09-08",
+    "to_date": "2025-07-18",
+    "confidence": 96.6112197145229
+  },
+  {
+    "text": "Send statement 06/03/2026 to 13 January 2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-03-06",
+    "to_date": "2027-01-13",
+    "confidence": 93.63018535904389
+  },
+  {
+    "text": "Send statement 11/02/2026 to 27 June 2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-02-11",
+    "to_date": "2026-06-27",
+    "confidence": 91.75083015214932
+  },
+  {
+    "text": "Send statement 27/09/2025 to 2026-02-21",
+    "date_pattern": "date_range",
+    "from_date": "2025-09-27",
+    "to_date": "2026-02-21",
+    "confidence": 97.60795490495663
+  },
+  {
+    "text": "Send statement Sep 19, 2024 to 05 December 2024",
+    "date_pattern": "date_range",
+    "from_date": "2024-09-19",
+    "to_date": "2024-12-05",
+    "confidence": 93.93037225713148
+  },
+  {
+    "text": "Send statement 21-11-25 to 07.04.2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-11-21",
+    "to_date": "2026-04-07",
+    "confidence": 91.2494243218888
+  },
+  {
+    "text": "Send statement 16-Jul-2026 to 21/02/2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-07-16",
+    "to_date": "2027-02-21",
+    "confidence": 90.98900538619655
+  },
+  {
+    "text": "Send statement 11/09/2025 to 20/03/26",
+    "date_pattern": "date_range",
+    "from_date": "2025-09-11",
+    "to_date": "2026-03-20",
+    "confidence": 91.20690519804073
+  },
+  {
+    "text": "Send statement 31.07.2025 to 09.06.2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-07-31",
+    "to_date": "2026-06-09",
+    "confidence": 96.95285496492023
+  },
+  {
+    "text": "Send statement Sep 10, 2024 to 01-Jan-2025",
+    "date_pattern": "date_range",
+    "from_date": "2024-09-10",
+    "to_date": "2025-01-01",
+    "confidence": 90.12516428619386
+  },
+  {
+    "text": "Send statement 14 May 2025 to 2026/01/24",
+    "date_pattern": "date_range",
+    "from_date": "2025-05-14",
+    "to_date": "2026-01-24",
+    "confidence": 91.67728938786834
+  },
+  {
+    "text": "Send statement for period 10/10/2025 to 20-Jun-2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-10-10",
+    "to_date": "2026-06-20",
+    "confidence": 94.55619903498804
+  },
+  {
+    "text": "Send statement for period May 26, 2026 to Mar 29, 2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-05-26",
+    "to_date": "2027-03-29",
+    "confidence": 93.24897851098652
+  },
+  {
+    "text": "Send statement for period 07.05.2025 to November 09, 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-05-07",
+    "to_date": "2025-11-09",
+    "confidence": 97.55428042148044
+  },
+  {
+    "text": "Send statement for period 2026-08-01 to 16-Oct-2026",
+    "date_pattern": "date_range",
+    "from_date": "2026-08-01",
+    "to_date": "2026-10-16",
+    "confidence": 91.91644373443171
+  },
+  {
+    "text": "Send statement for period 02-11-2024 to 25-01-25",
+    "date_pattern": "date_range",
+    "from_date": "2024-11-02",
+    "to_date": "2025-01-25",
+    "confidence": 97.67611495596466
+  },
+  {
+    "text": "Send statement for period 24.05.2026 to 06-Jan-2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-05-24",
+    "to_date": "2027-01-06",
+    "confidence": 93.01964957644303
+  },
+  {
+    "text": "Send statement for period 26-04-25 to 02-11-25",
+    "date_pattern": "date_range",
+    "from_date": "2025-04-26",
+    "to_date": "2025-11-02",
+    "confidence": 92.53903393728757
+  },
+  {
+    "text": "Send statement for period October 02, 2025 to 01 December 2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-10-02",
+    "to_date": "2025-12-01",
+    "confidence": 92.32847170552459
+  },
+  {
+    "text": "Send statement for period 19-08-2025 to 03-Nov-2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-08-19",
+    "to_date": "2025-11-03",
+    "confidence": 90.45789997171464
+  },
+  {
+    "text": "Send statement for period 12 June 2025 to 2025/11/20",
+    "date_pattern": "date_range",
+    "from_date": "2025-06-12",
+    "to_date": "2025-11-20",
+    "confidence": 96.22217449403581
+  },
+  {
+    "text": "Send statement for period December 15, 2025 to 16/10/2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-12-15",
+    "to_date": "2026-10-16",
+    "confidence": 94.98910967198553
+  },
+  {
+    "text": "Send statement for period 20.07.2026 to 21/03/2027",
+    "date_pattern": "date_range",
+    "from_date": "2026-07-20",
+    "to_date": "2027-03-21",
+    "confidence": 93.86405200150001
+  },
+  {
+    "text": "Send statement for period May 25, 2025 to 19-09-2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-05-25",
+    "to_date": "2025-09-19",
+    "confidence": 93.98852432985164
+  },
+  {
+    "text": "Send statement for period 22/04/2025 to 20-06-2025",
+    "date_pattern": "date_range",
+    "from_date": "2025-04-22",
+    "to_date": "2025-06-20",
+    "confidence": 93.96589417045394
+  },
+  {
+    "text": "Send statement for period 15-May-2025 to 15-Apr-2026",
+    "date_pattern": "date_range",
+    "from_date": "2025-05-15",
+    "to_date": "2026-04-15",
+    "confidence": 96.81389685183044
+  },
+  {
+    "text": "Send statement for FY 20-21",
+    "date_pattern": "financial_year",
+    "from_date": "2020-04-01",
+    "to_date": "2021-03-31",
+    "confidence": 94.11342310093517
+  },
+  {
+    "text": "Send statement for FY 21-22",
+    "date_pattern": "financial_year",
+    "from_date": "2021-04-01",
+    "to_date": "2022-03-31",
+    "confidence": 95.38881135950568
+  },
+  {
+    "text": "Send statement for FY 22-23",
+    "date_pattern": "financial_year",
+    "from_date": "2022-04-01",
+    "to_date": "2023-03-31",
+    "confidence": 96.92777418610851
+  },
+  {
+    "text": "Send statement for FY 23-24",
+    "date_pattern": "financial_year",
+    "from_date": "2023-04-01",
+    "to_date": "2024-03-31",
+    "confidence": 96.21885548619784
+  },
+  {
+    "text": "Send statement for FY 24-25",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 93.32946038589499
+  },
+  {
+    "text": "Send statement for FY 25-26",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 96.92493962136133
+  },
+  {
+    "text": "Send statement for FY 20-21",
+    "date_pattern": "financial_year",
+    "from_date": "2020-04-01",
+    "to_date": "2021-03-31",
+    "confidence": 97.22086887620583
+  },
+  {
+    "text": "Send statement for FY 21-22",
+    "date_pattern": "financial_year",
+    "from_date": "2021-04-01",
+    "to_date": "2022-03-31",
+    "confidence": 95.45962663813087
+  },
+  {
+    "text": "Send statement for FY 22-23",
+    "date_pattern": "financial_year",
+    "from_date": "2022-04-01",
+    "to_date": "2023-03-31",
+    "confidence": 93.50197645525012
+  },
+  {
+    "text": "Send statement for FY 23-24",
+    "date_pattern": "financial_year",
+    "from_date": "2023-04-01",
+    "to_date": "2024-03-31",
+    "confidence": 96.11371009713429
+  },
+  {
+    "text": "Send statement for FY 24-25",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 96.44285600864444
+  },
+  {
+    "text": "Send statement for FY 25-26",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 94.7280534162425
+  },
+  {
+    "text": "Send statement for FY20-21",
+    "date_pattern": "financial_year",
+    "from_date": "2020-04-01",
+    "to_date": "2021-03-31",
+    "confidence": 93.21411622797812
+  },
+  {
+    "text": "Send statement for FY21-22",
+    "date_pattern": "financial_year",
+    "from_date": "2021-04-01",
+    "to_date": "2022-03-31",
+    "confidence": 92.92719915619215
+  },
+  {
+    "text": "Send statement for FY22-23",
+    "date_pattern": "financial_year",
+    "from_date": "2022-04-01",
+    "to_date": "2023-03-31",
+    "confidence": 92.35211040941948
+  },
+  {
+    "text": "Send statement for FY23-24",
+    "date_pattern": "financial_year",
+    "from_date": "2023-04-01",
+    "to_date": "2024-03-31",
+    "confidence": 92.02829867192818
+  },
+  {
+    "text": "Send statement for FY24-25",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 95.88867514246002
+  },
+  {
+    "text": "Send statement for FY25-26",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 94.78853917737555
+  },
+  {
+    "text": "Send statement for financial year 20-21",
+    "date_pattern": "financial_year",
+    "from_date": "2020-04-01",
+    "to_date": "2021-03-31",
+    "confidence": 93.82550607538624
+  },
+  {
+    "text": "Send statement for financial year 21-22",
+    "date_pattern": "financial_year",
+    "from_date": "2021-04-01",
+    "to_date": "2022-03-31",
+    "confidence": 97.6883575849777
+  },
+  {
+    "text": "Send statement for financial year 22-23",
+    "date_pattern": "financial_year",
+    "from_date": "2022-04-01",
+    "to_date": "2023-03-31",
+    "confidence": 92.31217365282407
+  },
+  {
+    "text": "Send statement for financial year 23-24",
+    "date_pattern": "financial_year",
+    "from_date": "2023-04-01",
+    "to_date": "2024-03-31",
+    "confidence": 92.9258749414242
+  },
+  {
+    "text": "Send statement for financial year 24-25",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 96.99152380064827
+  },
+  {
+    "text": "Send statement for financial year 25-26",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 96.45205356837938
+  },
+  {
+    "text": "Send statement for Financial Year 20-21",
+    "date_pattern": "financial_year",
+    "from_date": "2020-04-01",
+    "to_date": "2021-03-31",
+    "confidence": 96.59208662380075
+  },
+  {
+    "text": "Send statement for Financial Year 21-22",
+    "date_pattern": "financial_year",
+    "from_date": "2021-04-01",
+    "to_date": "2022-03-31",
+    "confidence": 95.6018905267099
+  },
+  {
+    "text": "Send statement for Financial Year 22-23",
+    "date_pattern": "financial_year",
+    "from_date": "2022-04-01",
+    "to_date": "2023-03-31",
+    "confidence": 93.67653130357947
+  },
+  {
+    "text": "Send statement for Financial Year 23-24",
+    "date_pattern": "financial_year",
+    "from_date": "2023-04-01",
+    "to_date": "2024-03-31",
+    "confidence": 92.56022941896589
+  },
+  {
+    "text": "Send statement for Financial Year 24-25",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 95.9455274010515
+  },
+  {
+    "text": "Send statement for Financial Year 25-26",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 96.16093752130274
+  },
+  {
+    "text": "Send statement for FY 2020",
+    "date_pattern": "financial_year",
+    "from_date": "2020-04-01",
+    "to_date": "2021-03-31",
+    "confidence": 96.75292676324976
+  },
+  {
+    "text": "Send statement for FY 2021",
+    "date_pattern": "financial_year",
+    "from_date": "2021-04-01",
+    "to_date": "2022-03-31",
+    "confidence": 97.545438140762
+  },
+  {
+    "text": "Send statement for FY 2022",
+    "date_pattern": "financial_year",
+    "from_date": "2022-04-01",
+    "to_date": "2023-03-31",
+    "confidence": 97.52894398851465
+  },
+  {
+    "text": "Send statement for FY 2023",
+    "date_pattern": "financial_year",
+    "from_date": "2023-04-01",
+    "to_date": "2024-03-31",
+    "confidence": 96.05034260672026
+  },
+  {
+    "text": "Send statement for FY 2024",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 96.45740872672928
+  },
+  {
+    "text": "Send statement for FY 2025",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 97.67375495196876
+  },
+  {
+    "text": "Send statement for financial year 2020",
+    "date_pattern": "financial_year",
+    "from_date": "2020-04-01",
+    "to_date": "2021-03-31",
+    "confidence": 95.1128413653164
+  },
+  {
+    "text": "Send statement for financial year 2021",
+    "date_pattern": "financial_year",
+    "from_date": "2021-04-01",
+    "to_date": "2022-03-31",
+    "confidence": 95.96551161972359
+  },
+  {
+    "text": "Send statement for financial year 2022",
+    "date_pattern": "financial_year",
+    "from_date": "2022-04-01",
+    "to_date": "2023-03-31",
+    "confidence": 96.60291036055195
+  },
+  {
+    "text": "Send statement for financial year 2023",
+    "date_pattern": "financial_year",
+    "from_date": "2023-04-01",
+    "to_date": "2024-03-31",
+    "confidence": 95.38901908928116
+  },
+  {
+    "text": "Send statement for financial year 2024",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 97.3275977837834
+  },
+  {
+    "text": "Send statement for financial year 2025",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 92.55209349827223
+  },
+  {
+    "text": "Send statement for current FY",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 94.00946422869359
+  },
+  {
+    "text": "Send statement for current financial year",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 94.66384382629106
+  },
+  {
+    "text": "Send statement for this FY",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 96.10724727560543
+  },
+  {
+    "text": "Send statement for this financial year",
+    "date_pattern": "financial_year",
+    "from_date": "2025-04-01",
+    "to_date": "2026-03-31",
+    "confidence": 97.3833660776017
+  },
+  {
+    "text": "Send statement for last FY",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 94.67758898825947
+  },
+  {
+    "text": "Send statement for previous FY",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 95.12696037422468
+  },
+  {
+    "text": "Send statement for last financial year",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 94.63234811834323
+  },
+  {
+    "text": "Send statement for previous financial year",
+    "date_pattern": "financial_year",
+    "from_date": "2024-04-01",
+    "to_date": "2025-03-31",
+    "confidence": 92.95096197409045
+  },
+  {
+    "text": "Send statement for next FY",
+    "date_pattern": "financial_year",
+    "from_date": "2026-04-01",
+    "to_date": "2027-03-31",
+    "confidence": 93.32504702063311
+  },
+  {
+    "text": "Send statement for next financial year",
+    "date_pattern": "financial_year",
+    "from_date": "2026-04-01",
+    "to_date": "2027-03-31",
+    "confidence": 96.46659003288362
+  },
+  {
+    "text": "Send statement for yesterday",
+    "date_pattern": "relative_date",
+    "from_date": "2025-08-10",
+    "to_date": "2025-08-10",
+    "confidence": 93.38203735558959
+  },
+  {
+    "text": "Send statement for today",
+    "date_pattern": "relative_date",
+    "from_date": "2025-08-11",
+    "to_date": "2025-08-11",
+    "confidence": 94.58684301108038
+  },
+  {
+    "text": "Send statement for last week",
+    "date_pattern": "relative_date",
+    "from_date": "2025-08-04",
+    "to_date": "2025-08-04",
+    "confidence": 91.66014451787896
+  },
+  {
+    "text": "Send statement for last month",
+    "date_pattern": "relative_date",
+    "from_date": "2025-07-11",
+    "to_date": "2025-08-11",
+    "confidence": 93.28813889856565
+  },
+  {
+    "text": "Send statement for last quarter",
+    "date_pattern": "relative_date",
+    "from_date": "2025-05-11",
+    "to_date": "2025-08-11",
+    "confidence": 89.4498920888671
+  },
+  {
+    "text": "Send statement for last year",
+    "date_pattern": "relative_date",
+    "from_date": "2024-08-11",
+    "to_date": "2025-08-11",
+    "confidence": 90.87813461043184
+  },
+  {
+    "text": "Send statement for last 3 months",
+    "date_pattern": "relative_date",
+    "from_date": "2025-05-11",
+    "to_date": "2025-08-11",
+    "confidence": 89.304836541792
+  },
+  {
+    "text": "Send statement for last 6 months",
+    "date_pattern": "relative_date",
+    "from_date": "2025-02-11",
+    "to_date": "2025-08-11",
+    "confidence": 92.08791072915454
+  },
+  {
+    "text": "Send statement for past 3 months",
+    "date_pattern": "relative_date",
+    "from_date": "2025-05-11",
+    "to_date": "2025-08-11",
+    "confidence": 88.95701744870736
+  },
+  {
+    "text": "Send statement for past 6 months",
+    "date_pattern": "relative_date",
+    "from_date": "2025-02-11",
+    "to_date": "2025-08-11",
+    "confidence": 88.0769085565575
+  },
+  {
+    "text": "Send statement for previous 3 months",
+    "date_pattern": "relative_date",
+    "from_date": "2025-05-11",
+    "to_date": "2025-08-11",
+    "confidence": 94.79469105521824
+  },
+  {
+    "text": "Send statement for this month",
+    "date_pattern": "relative_date",
+    "from_date": "2025-08-01",
+    "to_date": "2025-08-11",
+    "confidence": 93.09088198420967
+  },
+  {
+    "text": "Send statement for this quarter",
+    "date_pattern": "relative_date",
+    "from_date": "2025-07-01",
+    "to_date": "2025-08-11",
+    "confidence": 92.85124108144076
+  },
+  {
+    "text": "Send statement for this year",
+    "date_pattern": "relative_date",
+    "from_date": "2025-01-01",
+    "to_date": "2025-08-11",
+    "confidence": 88.56253335527026
+  },
+  {
+    "text": "Send statement for current month",
+    "date_pattern": "relative_date",
+    "from_date": "2025-08-01",
+    "to_date": "2025-08-11",
+    "confidence": 88.8072446258285
+  },
+  {
+    "text": "Send statement for current quarter",
+    "date_pattern": "relative_date",
+    "from_date": "2025-07-01",
+    "to_date": "2025-08-11",
+    "confidence": 90.71976730614384
+  },
+  {
+    "text": "Send statement for current year",
+    "date_pattern": "relative_date",
+    "from_date": "2025-01-01",
+    "to_date": "2025-08-11",
+    "confidence": 88.00380210963745
+  },
+  {
+    "text": "Send statement for YTD",
+    "date_pattern": "to_date",
+    "from_date": "2025-01-01",
+    "to_date": "2025-08-11",
+    "confidence": 92.78696612130865
+  },
+  {
+    "text": "Send statement for year to date",
+    "date_pattern": "to_date",
+    "from_date": "2025-01-01",
+    "to_date": "2025-08-11",
+    "confidence": 92.0876077651007
+  },
+  {
+    "text": "Send statement for MTD",
+    "date_pattern": "to_date",
+    "from_date": "2025-08-01",
+    "to_date": "2025-08-11",
+    "confidence": 92.6092542244014
+  },
+  {
+    "text": "Send statement for month to date",
+    "date_pattern": "to_date",
+    "from_date": "2025-08-01",
+    "to_date": "2025-08-11",
+    "confidence": 90.4731490583957
+  },
+  {
+    "text": "Send statement for QTD",
+    "date_pattern": "to_date",
+    "from_date": "2025-07-01",
+    "to_date": "2025-08-11",
+    "confidence": 90.62791351981289
+  },
+  {
+    "text": "Send statement for quarter to date",
+    "date_pattern": "to_date",
+    "from_date": "2025-07-01",
+    "to_date": "2025-08-11",
+    "confidence": 93.61415829124532
+  },
+  {
+    "text": "Send statement for WTD",
+    "date_pattern": "to_date",
+    "from_date": "2025-08-11",
+    "to_date": "2025-08-11",
+    "confidence": 91.85297217975497
+  },
+  {
+    "text": "Send statement for week to date",
+    "date_pattern": "to_date",
+    "from_date": "2025-08-11",
+    "to_date": "2025-08-11",
+    "confidence": 94.92306743593132
+  },
+  {
+    "text": "Send statement for Q1 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-01-01",
+    "to_date": "2020-03-31",
+    "confidence": 93.51908742708169
+  },
+  {
+    "text": "Send statement for Q1 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-01-01",
+    "to_date": "2021-03-31",
+    "confidence": 91.3959923382876
+  },
+  {
+    "text": "Send statement for Q1 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-01-01",
+    "to_date": "2022-03-31",
+    "confidence": 94.93408187710325
+  },
+  {
+    "text": "Send statement for Q1 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-01-01",
+    "to_date": "2023-03-31",
+    "confidence": 95.32911794075065
+  },
+  {
+    "text": "Send statement for Q1 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-01-01",
+    "to_date": "2024-03-31",
+    "confidence": 92.67479732731758
+  },
+  {
+    "text": "Send statement for Q1 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-01-01",
+    "to_date": "2025-03-31",
+    "confidence": 90.61723486413358
+  },
+  {
+    "text": "Send statement for Q2 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-04-01",
+    "to_date": "2020-06-30",
+    "confidence": 90.4389722573309
+  },
+  {
+    "text": "Send statement for Q2 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-04-01",
+    "to_date": "2021-06-30",
+    "confidence": 91.3001356301362
+  },
+  {
+    "text": "Send statement for Q2 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-04-01",
+    "to_date": "2022-06-30",
+    "confidence": 92.50153425293993
+  },
+  {
+    "text": "Send statement for Q2 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-04-01",
+    "to_date": "2023-06-30",
+    "confidence": 95.41126026916277
+  },
+  {
+    "text": "Send statement for Q2 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-04-01",
+    "to_date": "2024-06-30",
+    "confidence": 92.99697114788982
+  },
+  {
+    "text": "Send statement for Q2 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-04-01",
+    "to_date": "2025-06-30",
+    "confidence": 90.94850658481114
+  },
+  {
+    "text": "Send statement for Q3 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-07-01",
+    "to_date": "2020-09-30",
+    "confidence": 92.10761742757386
+  },
+  {
+    "text": "Send statement for Q3 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-07-01",
+    "to_date": "2021-09-30",
+    "confidence": 95.40256854747099
+  },
+  {
+    "text": "Send statement for Q3 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-07-01",
+    "to_date": "2022-09-30",
+    "confidence": 93.73790472443602
+  },
+  {
+    "text": "Send statement for Q3 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-07-01",
+    "to_date": "2023-09-30",
+    "confidence": 94.0204782855731
+  },
+  {
+    "text": "Send statement for Q3 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-07-01",
+    "to_date": "2024-09-30",
+    "confidence": 91.89529424038166
+  },
+  {
+    "text": "Send statement for Q3 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-07-01",
+    "to_date": "2025-09-30",
+    "confidence": 93.9254622885782
+  },
+  {
+    "text": "Send statement for Q4 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-10-01",
+    "to_date": "2020-12-31",
+    "confidence": 93.95202173249602
+  },
+  {
+    "text": "Send statement for Q4 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-10-01",
+    "to_date": "2021-12-31",
+    "confidence": 91.48988016989074
+  },
+  {
+    "text": "Send statement for Q4 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-10-01",
+    "to_date": "2022-12-31",
+    "confidence": 95.53891853971528
+  },
+  {
+    "text": "Send statement for Q4 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-10-01",
+    "to_date": "2023-12-31",
+    "confidence": 94.68403291228128
+  },
+  {
+    "text": "Send statement for Q4 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-10-01",
+    "to_date": "2024-12-31",
+    "confidence": 93.07545561053153
+  },
+  {
+    "text": "Send statement for Q4 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-10-01",
+    "to_date": "2025-12-31",
+    "confidence": 95.38563018813808
+  },
+  {
+    "text": "Send statement for 1st quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-01-01",
+    "to_date": "2020-03-31",
+    "confidence": 94.62025749553727
+  },
+  {
+    "text": "Send statement for 1st quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-01-01",
+    "to_date": "2021-03-31",
+    "confidence": 90.54574260011374
+  },
+  {
+    "text": "Send statement for 1st quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-01-01",
+    "to_date": "2022-03-31",
+    "confidence": 92.88754769756657
+  },
+  {
+    "text": "Send statement for 1st quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-01-01",
+    "to_date": "2023-03-31",
+    "confidence": 91.93308610476429
+  },
+  {
+    "text": "Send statement for 1st quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-01-01",
+    "to_date": "2024-03-31",
+    "confidence": 95.54541140546718
+  },
+  {
+    "text": "Send statement for 1st quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-01-01",
+    "to_date": "2025-03-31",
+    "confidence": 92.47583191088972
+  },
+  {
+    "text": "Send statement for 2nd quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-04-01",
+    "to_date": "2020-06-30",
+    "confidence": 91.646615753079
+  },
+  {
+    "text": "Send statement for 2nd quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-04-01",
+    "to_date": "2021-06-30",
+    "confidence": 91.27702028997143
+  },
+  {
+    "text": "Send statement for 2nd quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-04-01",
+    "to_date": "2022-06-30",
+    "confidence": 94.50649824686306
+  },
+  {
+    "text": "Send statement for 2nd quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-04-01",
+    "to_date": "2023-06-30",
+    "confidence": 90.82843808572294
+  },
+  {
+    "text": "Send statement for 2nd quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-04-01",
+    "to_date": "2024-06-30",
+    "confidence": 90.14330755898492
+  },
+  {
+    "text": "Send statement for 2nd quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-04-01",
+    "to_date": "2025-06-30",
+    "confidence": 91.10414696865361
+  },
+  {
+    "text": "Send statement for 3rd quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-07-01",
+    "to_date": "2020-09-30",
+    "confidence": 91.03042714281773
+  },
+  {
+    "text": "Send statement for 3rd quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-07-01",
+    "to_date": "2021-09-30",
+    "confidence": 94.61678757641636
+  },
+  {
+    "text": "Send statement for 3rd quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-07-01",
+    "to_date": "2022-09-30",
+    "confidence": 95.28000983594012
+  },
+  {
+    "text": "Send statement for 3rd quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-07-01",
+    "to_date": "2023-09-30",
+    "confidence": 90.98821485928158
+  },
+  {
+    "text": "Send statement for 3rd quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-07-01",
+    "to_date": "2024-09-30",
+    "confidence": 92.96454454434142
+  },
+  {
+    "text": "Send statement for 3rd quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-07-01",
+    "to_date": "2025-09-30",
+    "confidence": 90.56967925127118
+  },
+  {
+    "text": "Send statement for 4th quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-10-01",
+    "to_date": "2020-12-31",
+    "confidence": 93.5879544679966
+  },
+  {
+    "text": "Send statement for 4th quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-10-01",
+    "to_date": "2021-12-31",
+    "confidence": 91.68695567915086
+  },
+  {
+    "text": "Send statement for 4th quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-10-01",
+    "to_date": "2022-12-31",
+    "confidence": 91.78352124204605
+  },
+  {
+    "text": "Send statement for 4th quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-10-01",
+    "to_date": "2023-12-31",
+    "confidence": 94.95345027297908
+  },
+  {
+    "text": "Send statement for 4th quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-10-01",
+    "to_date": "2024-12-31",
+    "confidence": 90.69337088896732
+  },
+  {
+    "text": "Send statement for 4th quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-10-01",
+    "to_date": "2025-12-31",
+    "confidence": 93.7463542703879
+  },
+  {
+    "text": "Send statement for first quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-01-01",
+    "to_date": "2020-03-31",
+    "confidence": 93.94089374155092
+  },
+  {
+    "text": "Send statement for first quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-01-01",
+    "to_date": "2021-03-31",
+    "confidence": 94.582819747374
+  },
+  {
+    "text": "Send statement for first quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-01-01",
+    "to_date": "2022-03-31",
+    "confidence": 90.03412365741747
+  },
+  {
+    "text": "Send statement for first quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-01-01",
+    "to_date": "2023-03-31",
+    "confidence": 94.10159822374976
+  },
+  {
+    "text": "Send statement for first quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-01-01",
+    "to_date": "2024-03-31",
+    "confidence": 92.55607406493006
+  },
+  {
+    "text": "Send statement for first quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-01-01",
+    "to_date": "2025-03-31",
+    "confidence": 91.01849790708617
+  },
+  {
+    "text": "Send statement for second quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-04-01",
+    "to_date": "2020-06-30",
+    "confidence": 91.17760913986642
+  },
+  {
+    "text": "Send statement for second quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-04-01",
+    "to_date": "2021-06-30",
+    "confidence": 95.99499264931306
+  },
+  {
+    "text": "Send statement for second quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-04-01",
+    "to_date": "2022-06-30",
+    "confidence": 90.94007403414517
+  },
+  {
+    "text": "Send statement for second quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-04-01",
+    "to_date": "2023-06-30",
+    "confidence": 91.2832526413158
+  },
+  {
+    "text": "Send statement for second quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-04-01",
+    "to_date": "2024-06-30",
+    "confidence": 94.55322701564633
+  },
+  {
+    "text": "Send statement for second quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-04-01",
+    "to_date": "2025-06-30",
+    "confidence": 91.17710460875352
+  },
+  {
+    "text": "Send statement for third quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-07-01",
+    "to_date": "2020-09-30",
+    "confidence": 94.97502434134091
+  },
+  {
+    "text": "Send statement for third quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-07-01",
+    "to_date": "2021-09-30",
+    "confidence": 95.79672875756054
+  },
+  {
+    "text": "Send statement for third quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-07-01",
+    "to_date": "2022-09-30",
+    "confidence": 90.7451127392363
+  },
+  {
+    "text": "Send statement for third quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-07-01",
+    "to_date": "2023-09-30",
+    "confidence": 92.79909342899177
+  },
+  {
+    "text": "Send statement for third quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-07-01",
+    "to_date": "2024-09-30",
+    "confidence": 90.00553179658756
+  },
+  {
+    "text": "Send statement for third quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-07-01",
+    "to_date": "2025-09-30",
+    "confidence": 93.60573463829374
+  },
+  {
+    "text": "Send statement for fourth quarter 2020",
+    "date_pattern": "quarter",
+    "from_date": "2020-10-01",
+    "to_date": "2020-12-31",
+    "confidence": 93.0265901353145
+  },
+  {
+    "text": "Send statement for fourth quarter 2021",
+    "date_pattern": "quarter",
+    "from_date": "2021-10-01",
+    "to_date": "2021-12-31",
+    "confidence": 92.542323170861
+  },
+  {
+    "text": "Send statement for fourth quarter 2022",
+    "date_pattern": "quarter",
+    "from_date": "2022-10-01",
+    "to_date": "2022-12-31",
+    "confidence": 93.62985685043012
+  },
+  {
+    "text": "Send statement for fourth quarter 2023",
+    "date_pattern": "quarter",
+    "from_date": "2023-10-01",
+    "to_date": "2023-12-31",
+    "confidence": 94.39520162606463
+  },
+  {
+    "text": "Send statement for fourth quarter 2024",
+    "date_pattern": "quarter",
+    "from_date": "2024-10-01",
+    "to_date": "2024-12-31",
+    "confidence": 92.28719900424764
+  },
+  {
+    "text": "Send statement for fourth quarter 2025",
+    "date_pattern": "quarter",
+    "from_date": "2025-10-01",
+    "to_date": "2025-12-31",
+    "confidence": 95.52647555415192
+  },
+  {
+    "text": "Send statement for Jan 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-01-01",
+    "to_date": "2020-01-31",
+    "confidence": 89.92727587578732
+  },
+  {
+    "text": "Send statement for Jan 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-01-01",
+    "to_date": "2021-01-31",
+    "confidence": 93.14415883700974
+  },
+  {
+    "text": "Send statement for Jan 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-01-01",
+    "to_date": "2022-01-31",
+    "confidence": 91.38479110841803
+  },
+  {
+    "text": "Send statement for Jan 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-01-01",
+    "to_date": "2023-01-31",
+    "confidence": 89.54054708323903
+  },
+  {
+    "text": "Send statement for Jan 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-01-01",
+    "to_date": "2024-01-31",
+    "confidence": 88.58403904104816
+  },
+  {
+    "text": "Send statement for Jan 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-01-01",
+    "to_date": "2025-01-31",
+    "confidence": 90.53936468260498
+  },
+  {
+    "text": "Send statement for Feb 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-02-01",
+    "to_date": "2020-02-29",
+    "confidence": 90.62988846340863
+  },
+  {
+    "text": "Send statement for Feb 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-02-01",
+    "to_date": "2021-02-28",
+    "confidence": 93.7869012047678
+  },
+  {
+    "text": "Send statement for Feb 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-02-01",
+    "to_date": "2022-02-28",
+    "confidence": 91.37410036898667
+  },
+  {
+    "text": "Send statement for Feb 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-02-01",
+    "to_date": "2023-02-28",
+    "confidence": 91.19264423828477
+  },
+  {
+    "text": "Send statement for Feb 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-02-01",
+    "to_date": "2024-02-29",
+    "confidence": 88.49349616014743
+  },
+  {
+    "text": "Send statement for Feb 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-02-01",
+    "to_date": "2025-02-28",
+    "confidence": 91.41243612422441
+  },
+  {
+    "text": "Send statement for Mar 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-03-01",
+    "to_date": "2020-03-31",
+    "confidence": 88.13038743922897
+  },
+  {
+    "text": "Send statement for Mar 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-03-01",
+    "to_date": "2021-03-31",
+    "confidence": 93.96104134413252
+  },
+  {
+    "text": "Send statement for Mar 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-03-01",
+    "to_date": "2022-03-31",
+    "confidence": 91.58895142516012
+  },
+  {
+    "text": "Send statement for Mar 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-03-01",
+    "to_date": "2023-03-31",
+    "confidence": 92.45143191934709
+  },
+  {
+    "text": "Send statement for Mar 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-03-01",
+    "to_date": "2024-03-31",
+    "confidence": 90.23984948090296
+  },
+  {
+    "text": "Send statement for Mar 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-03-01",
+    "to_date": "2025-03-31",
+    "confidence": 88.56322596873862
+  },
+  {
+    "text": "Send statement for Apr 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-04-01",
+    "to_date": "2020-04-30",
+    "confidence": 92.59968357436539
+  },
+  {
+    "text": "Send statement for Apr 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-04-01",
+    "to_date": "2021-04-30",
+    "confidence": 92.85977462857143
+  },
+  {
+    "text": "Send statement for Apr 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-04-01",
+    "to_date": "2022-04-30",
+    "confidence": 91.53131871762888
+  },
+  {
+    "text": "Send statement for Apr 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-04-01",
+    "to_date": "2023-04-30",
+    "confidence": 93.57094186035661
+  },
+  {
+    "text": "Send statement for Apr 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-04-01",
+    "to_date": "2024-04-30",
+    "confidence": 92.85703609150472
+  },
+  {
+    "text": "Send statement for Apr 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-04-01",
+    "to_date": "2025-04-30",
+    "confidence": 88.28091152398619
+  },
+  {
+    "text": "Send statement for May 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-05-01",
+    "to_date": "2020-05-31",
+    "confidence": 88.80310982922518
+  },
+  {
+    "text": "Send statement for May 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-05-01",
+    "to_date": "2021-05-31",
+    "confidence": 93.42292565258502
+  },
+  {
+    "text": "Send statement for May 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-05-01",
+    "to_date": "2022-05-31",
+    "confidence": 88.60351411652698
+  },
+  {
+    "text": "Send statement for May 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-05-01",
+    "to_date": "2023-05-31",
+    "confidence": 89.87639441059893
+  },
+  {
+    "text": "Send statement for May 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-05-01",
+    "to_date": "2024-05-31",
+    "confidence": 90.77837165888774
+  },
+  {
+    "text": "Send statement for May 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-05-01",
+    "to_date": "2025-05-31",
+    "confidence": 91.4152883182949
+  },
+  {
+    "text": "Send statement for Jun 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-06-01",
+    "to_date": "2020-06-30",
+    "confidence": 93.60886092117609
+  },
+  {
+    "text": "Send statement for Jun 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-06-01",
+    "to_date": "2021-06-30",
+    "confidence": 92.92600134430613
+  },
+  {
+    "text": "Send statement for Jun 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-06-01",
+    "to_date": "2022-06-30",
+    "confidence": 91.51477394608044
+  },
+  {
+    "text": "Send statement for Jun 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-06-01",
+    "to_date": "2023-06-30",
+    "confidence": 89.28050361372225
+  },
+  {
+    "text": "Send statement for Jun 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-06-01",
+    "to_date": "2024-06-30",
+    "confidence": 93.45132282200613
+  },
+  {
+    "text": "Send statement for Jun 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-06-01",
+    "to_date": "2025-06-30",
+    "confidence": 89.15177143580041
+  },
+  {
+    "text": "Send statement for Jul 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-07-01",
+    "to_date": "2020-07-31",
+    "confidence": 89.96001577099969
+  },
+  {
+    "text": "Send statement for Jul 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-07-01",
+    "to_date": "2021-07-31",
+    "confidence": 90.12737613672996
+  },
+  {
+    "text": "Send statement for Jul 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-07-01",
+    "to_date": "2022-07-31",
+    "confidence": 92.85122530321347
+  },
+  {
+    "text": "Send statement for Jul 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-07-01",
+    "to_date": "2023-07-31",
+    "confidence": 89.87326435544578
+  },
+  {
+    "text": "Send statement for Jul 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-07-01",
+    "to_date": "2024-07-31",
+    "confidence": 92.07996699886804
+  },
+  {
+    "text": "Send statement for Jul 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-07-01",
+    "to_date": "2025-07-31",
+    "confidence": 93.70169905157134
+  },
+  {
+    "text": "Send statement for Aug 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-08-01",
+    "to_date": "2020-08-31",
+    "confidence": 91.76088518860433
+  },
+  {
+    "text": "Send statement for Aug 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-08-01",
+    "to_date": "2021-08-31",
+    "confidence": 88.84336717975228
+  },
+  {
+    "text": "Send statement for Aug 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-08-01",
+    "to_date": "2022-08-31",
+    "confidence": 90.13265894982162
+  },
+  {
+    "text": "Send statement for Aug 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-08-01",
+    "to_date": "2023-08-31",
+    "confidence": 88.39394150535732
+  },
+  {
+    "text": "Send statement for Aug 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-08-01",
+    "to_date": "2024-08-31",
+    "confidence": 89.05586472370996
+  },
+  {
+    "text": "Send statement for Aug 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-08-01",
+    "to_date": "2025-08-31",
+    "confidence": 88.41644557207732
+  },
+  {
+    "text": "Send statement for Sep 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-09-01",
+    "to_date": "2020-09-30",
+    "confidence": 90.9244653879519
+  },
+  {
+    "text": "Send statement for Sep 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-09-01",
+    "to_date": "2021-09-30",
+    "confidence": 90.58642582508956
+  },
+  {
+    "text": "Send statement for Sep 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-09-01",
+    "to_date": "2022-09-30",
+    "confidence": 88.72044512756051
+  },
+  {
+    "text": "Send statement for Sep 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-09-01",
+    "to_date": "2023-09-30",
+    "confidence": 90.05516533745228
+  },
+  {
+    "text": "Send statement for Sep 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-09-01",
+    "to_date": "2024-09-30",
+    "confidence": 91.37222867780181
+  },
+  {
+    "text": "Send statement for Sep 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-09-01",
+    "to_date": "2025-09-30",
+    "confidence": 93.74712800682536
+  },
+  {
+    "text": "Send statement for Oct 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-10-01",
+    "to_date": "2020-10-31",
+    "confidence": 89.86487859335726
+  },
+  {
+    "text": "Send statement for Oct 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-10-01",
+    "to_date": "2021-10-31",
+    "confidence": 93.29045422757649
+  },
+  {
+    "text": "Send statement for Oct 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-10-01",
+    "to_date": "2022-10-31",
+    "confidence": 89.40146762116368
+  },
+  {
+    "text": "Send statement for Oct 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-10-01",
+    "to_date": "2023-10-31",
+    "confidence": 93.43732185752187
+  },
+  {
+    "text": "Send statement for Oct 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-10-01",
+    "to_date": "2024-10-31",
+    "confidence": 93.30063636471924
+  },
+  {
+    "text": "Send statement for Oct 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-10-01",
+    "to_date": "2025-10-31",
+    "confidence": 89.42697675466272
+  },
+  {
+    "text": "Send statement for Nov 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-11-01",
+    "to_date": "2020-11-30",
+    "confidence": 91.90113883420095
+  },
+  {
+    "text": "Send statement for Nov 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-11-01",
+    "to_date": "2021-11-30",
+    "confidence": 89.37109612205963
+  },
+  {
+    "text": "Send statement for Nov 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-11-01",
+    "to_date": "2022-11-30",
+    "confidence": 92.66010361487771
+  },
+  {
+    "text": "Send statement for Nov 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-11-01",
+    "to_date": "2023-11-30",
+    "confidence": 89.0456493381241
+  },
+  {
+    "text": "Send statement for Nov 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-11-01",
+    "to_date": "2024-11-30",
+    "confidence": 89.28178114008577
+  },
+  {
+    "text": "Send statement for Nov 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-11-01",
+    "to_date": "2025-11-30",
+    "confidence": 91.48883373001969
+  },
+  {
+    "text": "Send statement for Dec 2020",
+    "date_pattern": "month_year",
+    "from_date": "2020-12-01",
+    "to_date": "2020-12-31",
+    "confidence": 93.25354497904084
+  },
+  {
+    "text": "Send statement for Dec 2021",
+    "date_pattern": "month_year",
+    "from_date": "2021-12-01",
+    "to_date": "2021-12-31",
+    "confidence": 90.5109250088243
+  },
+  {
+    "text": "Send statement for Dec 2022",
+    "date_pattern": "month_year",
+    "from_date": "2022-12-01",
+    "to_date": "2022-12-31",
+    "confidence": 91.94357098693325
+  },
+  {
+    "text": "Send statement for Dec 2023",
+    "date_pattern": "month_year",
+    "from_date": "2023-12-01",
+    "to_date": "2023-12-31",
+    "confidence": 93.42855502784964
+  },
+  {
+    "text": "Send statement for Dec 2024",
+    "date_pattern": "month_year",
+    "from_date": "2024-12-01",
+    "to_date": "2024-12-31",
+    "confidence": 92.09706955615556
+  },
+  {
+    "text": "Send statement for Dec 2025",
+    "date_pattern": "month_year",
+    "from_date": "2025-12-01",
+    "to_date": "2025-12-31",
+    "confidence": 90.72962574064388
+  }
+]

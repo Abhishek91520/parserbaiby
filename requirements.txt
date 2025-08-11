@@ -9,3 +9,7 @@ pandas
 datefinder
 spacy
 numpy
+scikit-learn
+joblib
+matplotlib
+seaborn

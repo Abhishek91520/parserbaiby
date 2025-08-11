@@ -103,7 +103,8 @@ async def parse_email(request: EmailRequest):
         result['success'] = True
         
         confidence_emoji = "💯" if result['confidence'] >= 80 else "🤔" if result['confidence'] >= 60 else "😅"
-        logger.info(f"{confidence_emoji} Parsing completed - Confidence: {result['confidence']}% | Method: {result['metadata']['parsing_method']}")
+        ml_status = "🧠 ML" if result['metadata']['ml_fallback_used'] else "📋 Rules"
+        logger.info(f"{confidence_emoji} Parsing completed - Confidence: {result['confidence']}% | Method: {ml_status}")
         logger.debug(f"Categories: {result['statement_category']} | Types: {result['statement_types']}")
         logger.debug(f"Identifiers found: PAN={len(result['pan_numbers'])}, DI={len(result['di_code'])}, Accounts={len(result['account_code'])}, Folios={len(result['aif_folio'])}")
         logger.debug(f"Date range: {result['from_date']} to {result['to_date']} ({result['metadata']['date_source']})")
@@ -117,9 +118,14 @@ async def parse_email(request: EmailRequest):
 
 @app.get("/health")
 async def health_check():
+    ml_available = parser.ml_model is not None
+    spacy_available = parser.nlp is not None
     return {
         "status": "healthy",
         "service": "IpruAI Email Parser API 🤖",
+        "ml_fallback_available": ml_available,
+        "spacy_model_loaded": spacy_available,
+        "ml_threshold": parser.model_config.get("ml_fallback_threshold", 60.0),
         "timestamp": datetime.now().isoformat()
     }
 

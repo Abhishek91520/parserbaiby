@@ -1,0 +1,36 @@
+{
+  "model_type": "RandomForest_MultiOutput_Production",
+  "vectorizer_type": "TfidfVectorizer_Enhanced",
+  "features": "text + identifiers + spacy_entities + ngrams",
+  "outputs": [
+    "Portfolio_Factsheet",
+    "Portfolio_Appraisal",
+    "Performance_Appraisal",
+    "Transaction_Statement",
+    "Capital_Register",
+    "Bank_Book",
+    "Statement_of_Dividend",
+    "Statement_of_Expense",
+    "Statement_of_Capital_Gain_Loss",
+    "Client_Details",
+    "AIF_Statement"
+  ],
+  "training_size": 2000,
+  "training_date": "2025-08-11T23:49:30.330733",
+  "model_version": "2.0_production",
+  "vectorizer_params": {
+    "max_features": 8000,
+    "ngram_range": [
+      1,
+      4
+    ],
+    "min_df": 2,
+    "max_df": 0.95
+  },
+  "model_params": {
+    "n_estimators": 200,
+    "max_depth": 15,
+    "min_samples_split": 5,
+    "min_samples_leaf": 2
+  }
+}

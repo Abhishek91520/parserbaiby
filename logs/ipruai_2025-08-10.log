@@ -1,1 +1,113 @@
 2025-08-10 15:53:36 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-10 16:00:18 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:18 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:18 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:18 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:18 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:18 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:18 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:18 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:26 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:26 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:26 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:26 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:26 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:26 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:26 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:26 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:27 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:27 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:27 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:27 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:27 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:29 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:29 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:29 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:29 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:29 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:30 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:30 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:30 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:30 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:30 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:30 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:30 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:30 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:31 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:31 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:31 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:31 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:31 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:31 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:31 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:31 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:32 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:32 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:32 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:32 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:32 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:32 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:32 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:32 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:00:44 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:00:44 | DEBUG    | IpruAI          | Subject: soa
+2025-08-10 16:00:44 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:00:44 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:00:44 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:00:44 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-10 16:00:44 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:00:44 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:01:08 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:01:08 | DEBUG    | IpruAI          | Subject: aif
+2025-08-10 16:01:08 | DEBUG    | IpruAI          | Body length: 18 chars
+2025-08-10 16:01:08 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:01:08 | INFO     | IpruAI          | 😅 Parsing completed - Confidence: 54.71% | Method: rule_based
+2025-08-10 16:01:08 | DEBUG    | IpruAI          | Categories: ['PMS', 'AIF'] | Types: ['Portfolio_Appraisal', 'AIF_Statement']
+2025-08-10 16:01:08 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:01:08 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-09 (default)
+2025-08-10 16:01:39 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:01:39 | DEBUG    | IpruAI          | Subject: aif
+2025-08-10 16:01:39 | DEBUG    | IpruAI          | Body length: 28 chars
+2025-08-10 16:01:39 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:01:39 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 92.31% | Method: rule_based
+2025-08-10 16:01:39 | DEBUG    | IpruAI          | Categories: ['PMS', 'AIF'] | Types: ['Portfolio_Appraisal', 'AIF_Statement']
+2025-08-10 16:01:39 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:01:39 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-10 (email)
+2025-08-10 16:32:37 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:32:37 | DEBUG    | IpruAI          | Subject: aif
+2025-08-10 16:32:37 | DEBUG    | IpruAI          | Body length: 28 chars
+2025-08-10 16:32:37 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:32:37 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 92.31% | Method: rule_based
+2025-08-10 16:32:37 | DEBUG    | IpruAI          | Categories: ['PMS', 'AIF'] | Types: ['Portfolio_Appraisal', 'AIF_Statement']
+2025-08-10 16:32:37 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:32:37 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-10 (email)
+2025-08-10 16:32:53 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-10 16:32:53 | DEBUG    | IpruAI          | Subject: aif
+2025-08-10 16:32:53 | DEBUG    | IpruAI          | Body length: 28 chars
+2025-08-10 16:32:53 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-10.log
+2025-08-10 16:32:53 | INFO     | IpruAI          | 💯 Parsing completed - Confidence: 92.31% | Method: rule_based
+2025-08-10 16:32:53 | DEBUG    | IpruAI          | Categories: ['PMS', 'AIF'] | Types: ['Portfolio_Appraisal', 'AIF_Statement']
+2025-08-10 16:32:53 | DEBUG    | IpruAI          | Identifiers found: PAN=1, DI=0, Accounts=0, Folios=0
+2025-08-10 16:32:53 | DEBUG    | IpruAI          | Date range: 2025-01-01 to 2025-08-10 (email)

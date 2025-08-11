@@ -1,23 +1,41 @@
 {
-  "version": "1.1",
+  "version": "2.0_production",
   "confidence_threshold": 75.0,
+  "ml_fallback_threshold": 60.0,
   "confidence_weights": {
     "statement_type": 0.45,
     "date_parsing": 0.35,
     "identifiers": 0.2
   },
   "ml_model": {
-    "model_path": "models/flair_model",
-    "embedding_dim": 100,
-    "hidden_dim": 256,
-    "learning_rate": 0.1,
-    "batch_size": 32,
-    "epochs": 100,
-    "patience": 10
+    "model_path": "models/spacy_model",
+    "spacy_model": "en_core_web_lg",
+    "enabled": true,
+    "min_confidence_boost": 5.0,
+    "max_confidence_boost": 15.0
   },
   "training": {
     "train_split": 0.8,
     "val_split": 0.2,
-    "random_seed": 42
-  }
+    "random_seed": 42,
+    "dataset_size": 2000
+  },
+  "production": {
+    "ml_fallback_enabled": true,
+    "fallback_threshold_adjustable": true,
+    "min_threshold": 30.0,
+    "max_threshold": 80.0,
+    "default_threshold": 60.0,
+    "performance_monitoring": true
+  },
+  "date_parsing": {
+    "comprehensive_patterns": true,
+    "fuzzy_matching": true,
+    "financial_year_support": true,
+    "relative_date_support": true,
+    "quarter_support": true,
+    "period_expressions": true
+  },
+  "last_trained": "2025-08-11T23:49:38.971084",
+  "production_ready": true
 }

@@ -16,24 +16,17 @@ A production-ready hybrid email parser that combines rule-based parsing with ML 
 ### 1. Setup Environment
 
 ```bash
-# Run the automated setup
-python setup.py
-```
+# Create virtual environment
+python -m venv venv
 
-This will:
-- Create virtual environment
-- Install dependencies
-- Generate training data
-- Test the parser
-
-### 2. Activate Environment
-
-```bash
+# Activate environment
 # Windows
 venv\Scripts\activate
-
 # Linux/Mac
 source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
 ```
 
 ### 3. Train ML Model (Production)

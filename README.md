@@ -308,3 +308,24 @@ logging.basicConfig(level=logging.DEBUG)
 ## License
 
 MIT License - see LICENSE file for details.
+
+
+## setup
+
+# Clone repo
+git clone 
+cd email_parser_api
+
+# Combine parts
+cat venv_part_* > venv.tar.gz
+
+# Extract
+tar -xzf venv.tar.gz
+
+# Activate
+source venv/bin/activate  # Linux/Mac
+# or
+venv\Scripts\activate     # Windows
+
+# Test
+python main.py

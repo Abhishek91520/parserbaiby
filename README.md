@@ -319,7 +319,12 @@ git clone https://github.com/Abhishek91520/parserbaiby.git
 cd email_parser_api
 
 # Restore virtual environment
+# Linux/Mac:
 cat venv_part_* > venv.tar.gz
+# Windows PowerShell:
+cmd /c "copy /b venv_part_* venv.tar.gz"
+
+# Extract
 tar -xzf venv.tar.gz
 
 # Activate environment

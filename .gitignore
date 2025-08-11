@@ -1,2 +1,7 @@
-# Include everything - no exclusions
-venv.zip
+venv/
+env/
+*.zip
+__pycache__/
+*.pyc
+.env
+*.log

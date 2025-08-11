@@ -1,0 +1,67 @@
+2025-08-12 00:19:20 | INFO     | IpruAI.Parser   | ML model loaded successfully
+2025-08-12 00:19:22 | INFO     | IpruAI.Parser   | spaCy model en_core_web_lg loaded successfully
+2025-08-12 00:19:22 | DEBUG    | asyncio         | Using proactor: IocpProactor
+2025-08-12 00:19:47 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-12 00:19:47 | DEBUG    | IpruAI          | Subject: soa
+2025-08-12 00:19:47 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-12 00:19:47 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-12.log
+2025-08-12 00:19:47 | DEBUG    | datefinder      | Parsing 20001455 with dateutil
+2025-08-12 00:19:47 | DEBUG    | datefinder      | month must be in 1..12: 20001455
+2025-08-12 00:19:47 | INFO     | IpruAI.Parser   | Rule-based confidence 48.41 < 60.0, enhancing with ML
+2025-08-12 00:19:49 | DEBUG    | datefinder      | Parsing 20001455 with dateutil
+2025-08-12 00:19:49 | DEBUG    | datefinder      | month must be in 1..12: 20001455
+2025-08-12 00:19:49 | INFO     | IpruAI.Parser   | ML fallback: PMS=['Portfolio_Appraisal'], AIF=[], confidence=79.47
+2025-08-12 00:19:49 | INFO     | IpruAI.Parser   | ML enhanced: Improved date range
+2025-08-12 00:19:49 | INFO     | IpruAI.Parser   | ML enhanced confidence from 48.41 to 63.41
+2025-08-12 00:19:49 | INFO     | IpruAI.Parser   | PMS statements detected from keywords: ['Portfolio_Appraisal']
+2025-08-12 00:19:49 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 63.41% | Method: 🧠 ML
+2025-08-12 00:19:49 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-12 00:19:49 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=0, Accounts=1, Folios=0
+2025-08-12 00:19:49 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-11 (default)
+2025-08-12 00:19:54 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-12 00:19:54 | DEBUG    | IpruAI          | Subject: soa
+2025-08-12 00:19:54 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-12 00:19:54 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-12.log
+2025-08-12 00:19:54 | DEBUG    | datefinder      | Parsing 20021455 with dateutil
+2025-08-12 00:19:54 | DEBUG    | datefinder      | month must be in 1..12: 20021455
+2025-08-12 00:19:54 | INFO     | IpruAI.Parser   | Rule-based confidence 50.10 < 60.0, enhancing with ML
+2025-08-12 00:19:55 | DEBUG    | datefinder      | Parsing 20021455 with dateutil
+2025-08-12 00:19:55 | DEBUG    | datefinder      | month must be in 1..12: 20021455
+2025-08-12 00:19:55 | INFO     | IpruAI.Parser   | ML fallback: PMS=['Portfolio_Appraisal'], AIF=[], confidence=77.24
+2025-08-12 00:19:55 | INFO     | IpruAI.Parser   | ML enhanced: Improved date range
+2025-08-12 00:19:55 | INFO     | IpruAI.Parser   | ML enhanced confidence from 50.10 to 65.10
+2025-08-12 00:19:55 | INFO     | IpruAI.Parser   | PMS statements detected from keywords: ['Portfolio_Appraisal']
+2025-08-12 00:19:55 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 65.1% | Method: 🧠 ML
+2025-08-12 00:19:55 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-12 00:19:55 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=0, Accounts=0, Folios=0
+2025-08-12 00:19:55 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-11 (default)
+2025-08-12 00:20:06 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-12 00:20:06 | DEBUG    | IpruAI          | Subject: soa
+2025-08-12 00:20:06 | DEBUG    | IpruAI          | Body length: 37 chars
+2025-08-12 00:20:06 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-12.log
+2025-08-12 00:20:06 | DEBUG    | datefinder      | Parsing 20026655 with dateutil
+2025-08-12 00:20:06 | DEBUG    | datefinder      | month must be in 1..12: 20026655
+2025-08-12 00:20:06 | INFO     | IpruAI.Parser   | Rule-based confidence 50.10 < 60.0, enhancing with ML
+2025-08-12 00:20:08 | DEBUG    | datefinder      | Parsing 20026655 with dateutil
+2025-08-12 00:20:08 | DEBUG    | datefinder      | month must be in 1..12: 20026655
+2025-08-12 00:20:08 | INFO     | IpruAI.Parser   | ML fallback: PMS=['Portfolio_Appraisal'], AIF=[], confidence=77.24
+2025-08-12 00:20:08 | INFO     | IpruAI.Parser   | ML enhanced: Improved date range
+2025-08-12 00:20:08 | INFO     | IpruAI.Parser   | ML enhanced confidence from 50.10 to 65.10
+2025-08-12 00:20:08 | INFO     | IpruAI.Parser   | PMS statements detected from keywords: ['Portfolio_Appraisal']
+2025-08-12 00:20:08 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 65.1% | Method: 🧠 ML
+2025-08-12 00:20:08 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-12 00:20:08 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=0, Accounts=0, Folios=0
+2025-08-12 00:20:08 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-11 (default)
+2025-08-12 00:21:06 | INFO     | IpruAI          | 📧 Processing email request
+2025-08-12 00:21:06 | DEBUG    | IpruAI          | Subject: soa
+2025-08-12 00:21:06 | DEBUG    | IpruAI          | Body length: 4 chars
+2025-08-12 00:21:06 | DEBUG    | IpruAI          | Log file: logs/ipruai_2025-08-12.log
+2025-08-12 00:21:06 | INFO     | IpruAI.Parser   | Rule-based confidence 50.10 < 60.0, enhancing with ML
+2025-08-12 00:21:07 | INFO     | IpruAI.Parser   | ML fallback: PMS=['Portfolio_Appraisal'], AIF=[], confidence=79.13
+2025-08-12 00:21:07 | INFO     | IpruAI.Parser   | ML enhanced: Improved date range
+2025-08-12 00:21:07 | INFO     | IpruAI.Parser   | ML enhanced confidence from 50.10 to 65.10
+2025-08-12 00:21:07 | INFO     | IpruAI.Parser   | PMS statements detected from keywords: ['Portfolio_Appraisal']
+2025-08-12 00:21:07 | INFO     | IpruAI          | 🤔 Parsing completed - Confidence: 65.1% | Method: 🧠 ML
+2025-08-12 00:21:07 | DEBUG    | IpruAI          | Categories: ['PMS'] | Types: ['Portfolio_Appraisal']
+2025-08-12 00:21:07 | DEBUG    | IpruAI          | Identifiers found: PAN=0, DI=0, Accounts=0, Folios=0
+2025-08-12 00:21:07 | DEBUG    | IpruAI          | Date range: 1990-01-01 to 2025-08-11 (default)

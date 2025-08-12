@@ -249,7 +249,7 @@ class IpruAIEmailParser:
                 parsed_date = self.parse_flexible_date(date_str)
                 if parsed_date and 1990 <= parsed_date.year <= 2050:
                     logger.debug(f"AS ON pattern matched: {date_str} -> {parsed_date.date()}")
-                    return self.DEFAULT_FROM_DATE, parsed_date.date(), 98.0
+                    return self._final_date_validation(self.DEFAULT_FROM_DATE, parsed_date.date(), 98.0)
         
         # STEP 2: Only if no AS ON pattern found, continue with other logic
         dates = []
@@ -432,7 +432,7 @@ class IpruAIEmailParser:
                 end_date = self.parse_flexible_date(end_str)
                 if start_date and end_date:
                     from_dt, to_dt = self._validate_date_range(start_date.date(), end_date.date())
-                    return from_dt, to_dt, 98.0
+                    return self._final_date_validation(from_dt, to_dt, 98.0)
         
         # Final validation: Check found dates
         valid_dates = []
@@ -443,18 +443,41 @@ class IpruAIEmailParser:
         if len(valid_dates) >= 2:
             valid_dates.sort()
             from_dt, to_dt = self._validate_date_range(valid_dates[0].date(), valid_dates[-1].date())
-            return from_dt, to_dt, 95.0
+            return self._final_date_validation(from_dt, to_dt, 95.0)
         elif len(valid_dates) == 1:
             single_date = valid_dates[0].date()
             
             # Check context to determine if it's FROM or AS ON
             if 'from' in text_lower and 'as on' not in text_lower:
                 yesterday = (datetime.today() - timedelta(days=1)).date()
-                return single_date, yesterday, 90.0
+                return self._final_date_validation(single_date, yesterday, 90.0)
             else:
-                return self.DEFAULT_FROM_DATE, single_date, 90.0
+                return self._final_date_validation(self.DEFAULT_FROM_DATE, single_date, 90.0)
         
-        return self.DEFAULT_FROM_DATE, (datetime.today() - timedelta(days=1)).date(), 0.0
+        # Final fallback with safety check
+        fallback_to_date = (datetime.today() - timedelta(days=1)).date()
+        return self._final_date_validation(self.DEFAULT_FROM_DATE, fallback_to_date, 0.0)
+    
+    def _final_date_validation(self, from_date, to_date, confidence):
+        """Final safety check for all date outputs"""
+        today = datetime.now().date()
+        
+        # Validate from_date
+        if from_date and (from_date.year < 1990 or from_date.year > 2050 or from_date > today):
+            logger.warning(f"Invalid from_date detected: {from_date}, using default")
+            from_date = self.DEFAULT_FROM_DATE
+        
+        # Validate to_date  
+        if to_date and (to_date.year < 1990 or to_date.year > 2050 or to_date > today):
+            logger.warning(f"Invalid to_date detected: {to_date}, using yesterday")
+            to_date = today - timedelta(days=1)
+        
+        # Ensure from_date <= to_date
+        if from_date and to_date and from_date > to_date:
+            logger.warning(f"from_date {from_date} > to_date {to_date}, fixing")
+            from_date = self.DEFAULT_FROM_DATE
+        
+        return from_date, to_date, confidence
     
     def _validate_date_range(self, from_date, to_date):
         """Validate and fix date range logic"""

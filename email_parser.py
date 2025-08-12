@@ -227,11 +227,34 @@ class IpruAIEmailParser:
 
     def extract_date_range(self, text: str) -> Tuple[Optional[datetime], Optional[datetime], float]:
         """Production-ready comprehensive date extraction covering all business scenarios"""
-        dates = []
         text_lower = text.lower()
         now = datetime.now()
         
-        # Step 1: Enhanced date finding with multiple methods
+        # STEP 1: AS ON patterns - HIGHEST PRIORITY
+        as_on_patterns = [
+            r'as\s+on\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})',
+            r'as\s+at\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})',
+            r'position\s+as\s+on\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})',
+            r'balance\s+as\s+on\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})',
+            r'status\s+as\s+on\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})',
+            r'statement\s+as\s+on\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})',
+            r'report\s+as\s+on\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})',
+            r'data\s+as\s+on\s+([^,\n\s]+(?:\s+[^,\n\s]+){0,4})'
+        ]
+        
+        for pattern in as_on_patterns:
+            match = re.search(pattern, text_lower, re.IGNORECASE)
+            if match:
+                date_str = match.group(1).strip()
+                parsed_date = self.parse_flexible_date(date_str)
+                if parsed_date and 1990 <= parsed_date.year <= 2050:
+                    logger.debug(f"AS ON pattern matched: {date_str} -> {parsed_date.date()}")
+                    return self.DEFAULT_FROM_DATE, parsed_date.date(), 98.0
+        
+        # STEP 2: Only if no AS ON pattern found, continue with other logic
+        dates = []
+        
+        # Enhanced date finding with multiple methods
         try:
             found_dates = list(datefinder.find_dates(text))
             dates.extend([d for d in found_dates if 1990 <= d.year <= 2050])
@@ -390,27 +413,7 @@ class IpruAIEmailParser:
                     except:
                         continue
         
-        # Enhanced "from" pattern with proper date extraction
-        from_patterns = [
-            r'from\s+([^\s]+(?:\s+[^\s]+){0,3})(?:\s+to\s+|\s+for\s+|\s+PAN\s+|\s+DI\s+|$)',
-            r'since\s+([^\s]+(?:\s+[^\s]+){0,3})(?:\s+to\s+|\s+for\s+|\s+PAN\s+|\s+DI\s+|$)'
-        ]
-        
-        for pattern in from_patterns:
-            from_match = re.search(pattern, text_lower)
-            if from_match:
-                from_date_str = from_match.group(1).strip()
-                from_date = self.parse_flexible_date(from_date_str)
-                if from_date:
-                    # Check if there's a 'to' in the text after 'from'
-                    has_to_pattern = re.search(r'from\s+[^\s]+.*?\s+to\s+', text_lower)
-                    if has_to_pattern:
-                        # There's a 'to' pattern, let range detection handle it
-                        continue
-                    else:
-                        # No 'to' pattern, default to yesterday
-                        yesterday = (datetime.today() - timedelta(days=1)).date()
-                        return from_date.date(), yesterday, 95.0
+
         
         # Enhanced range detection with "to" patterns
         range_patterns = [
@@ -431,25 +434,24 @@ class IpruAIEmailParser:
                     from_dt, to_dt = self._validate_date_range(start_date.date(), end_date.date())
                     return from_dt, to_dt, 98.0
         
-        # Check for date ranges from found dates
-        if len(dates) >= 2:
-            dates.sort()
-            from_dt, to_dt = self._validate_date_range(dates[0].date(), dates[-1].date())
+        # Final validation: Check found dates
+        valid_dates = []
+        for date in dates:
+            if date and 1990 <= date.year <= 2050 and date.date() <= datetime.now().date():
+                valid_dates.append(date)
+        
+        if len(valid_dates) >= 2:
+            valid_dates.sort()
+            from_dt, to_dt = self._validate_date_range(valid_dates[0].date(), valid_dates[-1].date())
             return from_dt, to_dt, 95.0
-        elif len(dates) == 1:
-            # Single date found - check if it's a 'from' context or 'as on' context
-            single_date = dates[0].date()
+        elif len(valid_dates) == 1:
+            single_date = valid_dates[0].date()
             
-            # Check for 'from' context more specifically
-            from_context_patterns = [r'from\s+[^\s]*march', r'from\s+\d+\s+march', r'from\s+march\s+\d+', r'since\s+']
-            is_from_context = any(re.search(pattern, text_lower) for pattern in from_context_patterns)
-            
-            if is_from_context or 'from' in text_lower:
-                # From date context - to_date should be yesterday
+            # Check context to determine if it's FROM or AS ON
+            if 'from' in text_lower and 'as on' not in text_lower:
                 yesterday = (datetime.today() - timedelta(days=1)).date()
                 return single_date, yesterday, 90.0
             else:
-                # As on date context - from_date should be default
                 return self.DEFAULT_FROM_DATE, single_date, 90.0
         
         return self.DEFAULT_FROM_DATE, (datetime.today() - timedelta(days=1)).date(), 0.0
@@ -698,34 +700,65 @@ class IpruAIEmailParser:
             return self._get_specific_fy(year1_str)
 
     def parse_flexible_date(self, date_str: str) -> Optional[datetime]:
-        """Advanced date parser using multiple methods"""
+        """Advanced date parser with strict validation"""
         if not date_str:
             return None
         
-        # Method 1: datefinder
-        try:
-            dates = list(datefinder.find_dates(date_str))
-            if dates and 1990 <= dates[0].year <= 2050:
-                return dates[0]
-        except:
-            pass
+        date_str = date_str.strip().lower()
         
-        # Method 2: dateparser with multiple settings
+        # Handle special cases first
+        if date_str == 'today':
+            return datetime.now()
+        elif date_str == 'yesterday':
+            return datetime.now() - timedelta(days=1)
+        elif date_str == 'tomorrow':
+            return datetime.now() + timedelta(days=1)
+        
+        # Method 1: Manual parsing for common formats
+        manual_patterns = [
+            (r'(\d{1,2})[-/](\d{1,2})[-/](\d{4})', '%d/%m/%Y'),  # DD/MM/YYYY
+            (r'(\d{1,2})[-/](\d{1,2})[-/](\d{2})', '%d/%m/%y'),   # DD/MM/YY
+            (r'(\d{1,2})-(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)-(\d{4})', '%d-%b-%Y'),
+            (r'(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{4})', '%d %b %Y'),
+            (r'(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{1,2}),?\s+(\d{4})', '%b %d %Y')
+        ]
+        
+        for pattern, fmt in manual_patterns:
+            match = re.search(pattern, date_str)
+            if match:
+                try:
+                    parsed = datetime.strptime(match.group(0), fmt.replace('/', '-'))
+                    if 1990 <= parsed.year <= 2050:
+                        return parsed
+                except:
+                    continue
+        
+        # Method 2: dateparser with strict settings
         settings_list = [
+            {'DATE_ORDER': 'DMY', 'STRICT_PARSING': True},
             {'DATE_ORDER': 'DMY', 'STRICT_PARSING': False},
-            {'DATE_ORDER': 'MDY', 'STRICT_PARSING': False},
-            {'DATE_ORDER': 'YMD', 'STRICT_PARSING': False},
-            {'PREFER_DAY_OF_MONTH': 'first'},
-            {}
+            {'DATE_ORDER': 'MDY', 'STRICT_PARSING': True},
+            {'DATE_ORDER': 'YMD', 'STRICT_PARSING': True}
         ]
         
         for settings in settings_list:
             try:
                 parsed = dateparser.parse(date_str, settings=settings)
                 if parsed and 1990 <= parsed.year <= 2050:
-                    return parsed
+                    # Validate the parsed date makes sense
+                    if parsed.date() <= datetime.now().date():
+                        return parsed
             except:
                 continue
+        
+        # Method 3: datefinder as last resort
+        try:
+            dates = list(datefinder.find_dates(date_str))
+            for date in dates:
+                if 1990 <= date.year <= 2050 and date.date() <= datetime.now().date():
+                    return date
+        except:
+            pass
         
         return None
 

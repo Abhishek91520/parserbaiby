@@ -455,8 +455,8 @@ class IpruAIEmailParser:
             else:
                 return self.DEFAULT_FROM_DATE, single_date, 90.0
         
-        # Final fallback with safety check - use consistent date (Aug 11, 2025 for tests)
-        fallback_to_date = datetime(2025, 8, 11).date()
+        # Final fallback with safety check
+        fallback_to_date = (datetime.now() - timedelta(days=1)).date()
         return self._final_date_validation(self.DEFAULT_FROM_DATE, fallback_to_date, 0.0)
     
     def _final_date_validation(self, from_date, to_date, confidence):
@@ -502,12 +502,18 @@ class IpruAIEmailParser:
         return from_date, to_date
     
     def _get_current_fy(self, now):
-        # For tests: Aug 2025 = current FY is 2024-25 (Apr 2024 to Mar 2025)
-        return datetime(2024, 4, 1).date(), datetime(2025, 3, 31).date()
+        """Get current financial year (Apr-Mar)"""
+        if now.month >= 4:
+            return datetime(now.year, 4, 1).date(), datetime(now.year + 1, 3, 31).date()
+        else:
+            return datetime(now.year - 1, 4, 1).date(), datetime(now.year, 3, 31).date()
     
     def _get_last_fy(self, now):
-        # For tests: Aug 2025 = last FY is 2023-24 (Apr 2023 to Mar 2024)
-        return datetime(2023, 4, 1).date(), datetime(2024, 3, 31).date()
+        """Get last financial year (Apr-Mar)"""
+        if now.month >= 4:
+            return datetime(now.year - 1, 4, 1).date(), datetime(now.year, 3, 31).date()
+        else:
+            return datetime(now.year - 2, 4, 1).date(), datetime(now.year - 1, 3, 31).date()
     
     def _get_next_fy(self, now):
         # Next FY: If we're in Aug 2025, next FY is 2025-26 (Apr 2025 to Mar 2026)
@@ -524,16 +530,16 @@ class IpruAIEmailParser:
         return datetime(year, 4, 1).date(), datetime(year + 1, 3, 31).date()
     
     def _get_current_period(self, period, now):
-        # Use consistent end date for tests
-        end_date = datetime(2025, 8, 11).date()
+        """Get current period dates"""
+        yesterday = (now - timedelta(days=1)).date()
         if period == 'year':
-            return datetime(now.year, 1, 1).date(), end_date
+            return datetime(now.year, 1, 1).date(), yesterday
         elif period == 'month':
-            return now.replace(day=1).date(), end_date
+            return now.replace(day=1).date(), yesterday
         elif period == 'quarter':
             q = (now.month - 1) // 3 + 1
             start_month = (q - 1) * 3 + 1
-            return datetime(now.year, start_month, 1).date(), end_date
+            return datetime(now.year, start_month, 1).date(), yesterday
     
     def _get_last_period(self, period, now):
         if period == 'year':
@@ -562,17 +568,16 @@ class IpruAIEmailParser:
             if match:
                 n = int(match.group(1))
                 unit = match.group(2)
-                # Use Aug 11, 2025 as reference end date for consistency
-                end_date = datetime(2025, 8, 11).date()
+                end_date = (now - timedelta(days=1)).date()
                 
                 if 'day' in unit:
-                    start_date = end_date - timedelta(days=n)
+                    start_date = end_date - timedelta(days=n-1)
                 elif 'week' in unit:
-                    start_date = end_date - timedelta(weeks=n)
+                    start_date = end_date - timedelta(weeks=n) + timedelta(days=1)
                 elif 'month' in unit:
-                    start_date = end_date - relativedelta(months=n)
+                    start_date = end_date - relativedelta(months=n) + timedelta(days=1)
                 elif 'year' in unit:
-                    start_date = end_date - relativedelta(years=n)
+                    start_date = end_date - relativedelta(years=n) + timedelta(days=1)
                 
                 return start_date, end_date
         return None
@@ -610,10 +615,19 @@ class IpruAIEmailParser:
         return None
     
     def _get_last_quarter(self, now):
-        """Get last quarter dates - if current is Q3 (Jul-Sep), last is Q2 (Apr-Jun)"""
-        # For Aug 2025 (Q3), last quarter is Q2 2025 (Apr-Jun)
-        # Fixed to return expected test values
-        return datetime(2025, 4, 1).date(), datetime(2025, 6, 30).date()
+        """Get last quarter dates"""
+        current_quarter = (now.month - 1) // 3 + 1
+        if current_quarter == 1:
+            # Current is Q1, last quarter is Q4 of previous year
+            return datetime(now.year - 1, 10, 1).date(), datetime(now.year - 1, 12, 31).date()
+        else:
+            # Get previous quarter of current year
+            last_quarter = current_quarter - 1
+            start_month = (last_quarter - 1) * 3 + 1
+            end_month = start_month + 2
+            import calendar
+            end_day = calendar.monthrange(now.year, end_month)[1]
+            return datetime(now.year, start_month, 1).date(), datetime(now.year, end_month, end_day).date()
     
     def _get_current_quarter(self, now):
         """Get current quarter dates"""
@@ -730,13 +744,13 @@ class IpruAIEmailParser:
         date_str = date_str.strip().lower()
         current_year = datetime.now().year
         
-        # Handle special cases first - use consistent test dates
+        # Handle special cases first
         if date_str == 'today':
-            return datetime(2025, 8, 12)  # Test expects this
+            return datetime.now()
         elif date_str == 'yesterday':
-            return datetime(2025, 8, 11)  # Test expects this
+            return datetime.now() - timedelta(days=1)
         elif date_str == 'tomorrow':
-            return datetime(2025, 8, 13)  # Test expects this
+            return datetime.now() + timedelta(days=1)
         
         # Method 1: Manual parsing for common formats with year validation
         manual_patterns = [

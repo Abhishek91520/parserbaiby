@@ -106,17 +106,14 @@ class IpruAIEmailParser:
         all_8_digits = set(account_pattern.findall(text))
         aif_folio_strings = set(aif_folios)
         
-        # Filter out date patterns (DDMMYYYY, YYYYMMDD)
-        date_patterns = set()
+        # Filter out date patterns and AIF folios
+        account_codes = []
         for digit_str in all_8_digits:
-            if len(digit_str) == 8:
-                # Check if it looks like DDMMYYYY or YYYYMMDD
-                if (digit_str[:2] in ['01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31'] and 
-                    digit_str[2:4] in ['01','02','03','04','05','06','07','08','09','10','11','12']) or \
-                   (digit_str[:4] in ['2020','2021','2022','2023','2024','2025','2026','2027','2028','2029','2030']):
-                    date_patterns.add(digit_str)
-        
-        account_codes = list(all_8_digits - aif_folio_strings - date_patterns)
+            if len(digit_str) == 8 and digit_str not in aif_folio_strings:
+                # Skip obvious date patterns
+                if not (digit_str[:4] in ['2020','2021','2022','2023','2024','2025','2026','2027','2028','2029','2030'] or
+                       (digit_str[:2] <= '31' and digit_str[2:4] <= '12')):
+                    account_codes.append(digit_str)
         
         return {
             "pan_numbers": pans,
@@ -777,9 +774,9 @@ class IpruAIEmailParser:
         explicit_year = int(year_match.group(1)) if year_match else None
         
         settings_list = [
-            {'DATE_ORDER': 'DMY', 'PREFER_DATES_FROM': 'past', 'RELATIVE_BASE': datetime(current_year, 1, 1)},
+            {'DATE_ORDER': 'DMY', 'PREFER_DATES_FROM': 'future', 'RELATIVE_BASE': datetime(current_year, 1, 1)},
+            {'DATE_ORDER': 'MDY', 'PREFER_DATES_FROM': 'future'},
             {'DATE_ORDER': 'DMY', 'STRICT_PARSING': False},
-            {'DATE_ORDER': 'MDY', 'PREFER_DATES_FROM': 'past'},
         ]
         
         for settings in settings_list:
@@ -787,13 +784,13 @@ class IpruAIEmailParser:
                 parsed = dateparser.parse(date_str, settings=settings)
                 if parsed:
                     # CRITICAL FIX: Force explicit year if found in string
-                    if explicit_year and explicit_year <= current_year + 1:
+                    if explicit_year:
                         parsed = parsed.replace(year=explicit_year)
-                    # Prevent future year inference
-                    elif parsed.year > current_year + 1:
+                    # Allow future dates up to 5 years
+                    elif parsed.year > current_year + 5:
                         parsed = parsed.replace(year=current_year)
                     
-                    if 1990 <= parsed.year <= current_year + 1:
+                    if 1990 <= parsed.year <= current_year + 5:
                         return parsed
             except:
                 continue
